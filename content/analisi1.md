@@ -2,7 +2,7 @@
 
 **Tutor:** Stefano Mannella.
 
-Durante le ore di tutorato proveremo innanzitutto a rispondere alle domande ed ai dubbi che posso essere sorti in classe.
+Durante le ore di tutorato proveremo innanzitutto a rispondere alle domande ed ai dubbi che possono essere sorti in classe.
 
 Detto questo, verranno regolarmente caricati degli esercizi sul [Team del Corso](https://teams.microsoft.com/l/channel/19%3AibLhiluIhUBAii4IoIkfpOMF4-BFw2et09NuoPRN82o1%40thread.tacv2/General?groupId=aced3eae-7db0-462e-a555-8a1e6e401922&tenantId=c7456b31-a220-47f5-be52-473828670aa1) con l'idea di lasciarvi circa una settimana di tempo per (provare a) risolverli e discuterne poi a tutorato. 
 
