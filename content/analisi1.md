@@ -15,3 +15,4 @@ Infine, ricordo a tutt* che, nel caso in cui sorgesse un qualche piccolo dubbio 
 In questa sezione ho intenzione di caricare i pdf dei tutorati svolti. Non scriverò ogni singolo esercizio, mi limiterò a quelli che ritengo più importanti e/o istruttivi. Non abbiate paura di farmi notare eventuali errori e/o imprecisioni! Riguardo allo stile, soprattutto all'inizio tenterò di essere il più chiaro possibile, quindi non temete, durante un compito non vi verrà mai richiesto di dare così tanti dettagli. 
 
 - Tutorato del [13 ottobre 2023](/TutoratoAnalisi13102023.pdf).
+- Tutorato del [20 ottobre 2023](/
