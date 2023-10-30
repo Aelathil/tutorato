@@ -8,9 +8,10 @@ Siete caldamente invitati a *tentare* (alcuni de)gli esercizi durante la settima
 
 ## Esercizi
 
-**Esercizi per venerdì 20 ottobre:** dalle dispense, 
+**Esercizi per venerdì 3 novembre:** dalle dispense, 
 
-- Sezione 3, esercizi 10, 11, 14, 19, 26, 29, 32, 33, 35, 39, 41.
+- Sezione 4, esercizi 2, 4, 5, 9, 11;
+- Sezione 5, esercizi 2, 4, 5.
 
 ## Pdf dei Tutorati svolti
 
