@@ -17,7 +17,7 @@ Finché il venerdì mattina è occupato da LIMCO, l'orario è **provvisorio**. C
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |9-11| 	 |   |   |  | Aritmetica |
 |11-13|	 |   |   |  | Tut. alla Pari |
-|14-16|	 | Tut. alla Pari (Geo 1)  |   |  | Analisi I |
+|14-16|	 | Tut. alla Pari (Geo I)  |   |  | Analisi I |
 |16-18|	 |   |   |  |  | 
 |18-20|  |   |   |  |  | 
 
