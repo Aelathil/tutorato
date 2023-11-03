@@ -13,6 +13,13 @@ Siete caldamente invitati a *tentare* (alcuni de)gli esercizi durante la settima
 - Sezione 4, esercizi 2, 4, 5, 9, 11;
 - Sezione 5, esercizi 2, 4, 5.
 
+## Esercizi di dimostrazione
+
+In seguito al Test di Aritmetica di ottobre, abbiamo pensato che possa esservi utile concentrarvi un po' sullo *scrivere* dimostrazioni, oltre che sul risolvere esercizi. A questo scopo, nelle schede sotto, trovate alcuni risultati le cui dimostrazioni sono *solo abbozzate*. Vi si chiede di *riscrivere* le dimostrazioni, cercando di essere il più chiari e matematicamente precisi possibile. Sarebbe ideale se, dopo aver svolto gli esercizi, mi consegnaste le vostre proposte di dimostrazione (inviandole al mio indirizzo email, o dandomele a mano in Dipartimento) entro la sessione di Tutorato successiva; in questo modo, posso indicarvi eventuali aggiustamenti e darvi qualche consiglio. Ovviamente, il tutto è *facoltativo* (anche se *caldamente consigliato*). 
+
+- Scheda del [3 novembre 2023](/EserciziDimAritmetica03112023.pdf).
+
+
 ## Pdf dei Tutorati svolti
 
 Di volta in volta, metterò qui una versione pdf degli esercizi svolti a tutorato. Per favore, segnalatemi eventuali errori o imprecisioni!
