@@ -28,3 +28,4 @@ Di volta in volta, metterò qui una versione pdf degli esercizi svolti a tutorat
 
 - Tutorato del [13 ottobre 2023](/TutoratoAritmetica13102023.pdf).
 - Tutorato del [20 ottobre 2023](/TutoratoAritmetica20102023.pdf); una [nota](/Congruenze_di_II_grado.pdf) sulle congruenze di II grado.
+- Tutorato del [3 novembre 2023](/TutoratoAritmetica03112023.pdf).
