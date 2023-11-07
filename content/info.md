@@ -9,15 +9,17 @@ Precisiamo che **il tutorato alla pari**, in cui potete fare domande su qualsias
 
 ## Orario
 
-Finché il venerdì mattina è occupato da LIMCO, l'orario è **provvisorio**. Controllate spesso la tabella sotto per eventuali variazioni.
+L'orario dovrebbe essere **definitivo**. Controllate **comunque** spesso la tabella sotto per eventuali variazioni e per le aule.
+
+**NB:** Con "Geometria I" intendiamo il tutorato **generico** focalizzato su Geometria I, **non** l'esercitazione del giovedì.
 
 <div align="center" style="margin-top:1cm;">
 
 |  | Lun | Mar | Mer | Gio | Ven |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|9-11| 	 |   |   |  | Aritmetica <br> Aula Magna |
-|11-13|	 |   |   |  | Tut. alla Pari <br> Aula 2 |
-|14-16|	 | Tut. alla Pari (Geo I)<br> Aula N1 |   |  | Analisi I <br> Aula G |
+|9-11| 	 |   |   |  | Aritmetica |
+|11-13|	 |   |   |  | Geometria I |
+|14-16|	 | Tut. alla Pari <br> Aula 2 |   |  | Analisi I |
 |16-18|	 |   |   |  |  | 
 |18-20|  |   |   |  |  | 
 
