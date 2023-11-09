@@ -8,10 +8,10 @@ Siete caldamente invitati a *tentare* (alcuni de)gli esercizi durante la settima
 
 ## Esercizi
 
-**Esercizi per venerdì 3 novembre:** dalle dispense, 
+**Esercizi per venerdì 10 novembre:** dalle dispense, 
 
-- Sezione 4, esercizi 2, 4, 5, 9, 11;
-- Sezione 5, esercizi 2, 4, 5.
+- Sezione 6, tutti gli esercizi;
+- Sezione 7, tutti gli esercizi.
 
 ## Esercizi di dimostrazione
 
