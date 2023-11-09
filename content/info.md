@@ -12,6 +12,7 @@ Precisiamo che **il tutorato alla pari**, in cui potete fare domande su qualsias
 L'orario dovrebbe essere **definitivo**. Controllate **comunque** spesso la tabella sotto per eventuali variazioni e per le aule.
 
 **NB:** Con "Geometria I" intendiamo il tutorato **generico** focalizzato su Geometria I, **non** l'esercitazione del giovedì.
+
 **NB2:** Notate che abbiamo scambiato gli orari di Geometria I e Aritmetica per questa settimana: sono rispettivamente alle 9 e alle 11.
 
 <div align="center" style="margin-top:1cm;">
