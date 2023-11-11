@@ -10,8 +10,8 @@ Siete caldamente invitati a *tentare* (alcuni de)gli esercizi durante la settima
 
 **Esercizi per giovedì 16 novembre:** 
 
-- Descrivete $\operatorname{Hom}(\mathbb{Z}/m, \mathbb{Z}/n)$ per $m,n>1$;
-- Descrivete $\operatorname{Hom}(\mathbb{Z}, \mathbb{Z}/n)$ per $n>1$.
+- Descrivete $\text{Hom}(\mathbb{Z}/m, \mathbb{Z}/n)$ per $m,n>1$;
+- Descrivete $\text{Hom}(\mathbb{Z}, \mathbb{Z}/n)$ per $n>1$.
 
 ## Esercizi di dimostrazione
 
