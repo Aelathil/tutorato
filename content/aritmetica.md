@@ -8,10 +8,10 @@ Siete caldamente invitati a *tentare* (alcuni de)gli esercizi durante la settima
 
 ## Esercizi
 
-**Esercizi per venerdì 10 novembre:** dalle dispense, 
+**Esercizi per giovedì 16 novembre:** 
 
-- Sezione 6, tutti gli esercizi;
-- Sezione 7, tutti gli esercizi.
+- Descrivete $\operatorname{Hom}(\mathbb{Z}/m, \mathbb{Z}/n)$ per $m,n>1$;
+- Descrivete $\operatorname{Hom}(\mathbb{Z}, \mathbb{Z}/n)$ per $n>1$.
 
 ## Esercizi di dimostrazione
 
