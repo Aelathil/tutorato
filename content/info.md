@@ -19,7 +19,7 @@ L'orario dovrebbe essere **definitivo**. Controllate **comunque** spesso la tabe
 
 |  | Lun | Mar | Mer | Gio | Ven |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|9-11| 	 |   |   |  |  |
+|9-11| 	 |   |   | Aritmetica <br> Aula G |  |
 |11-13|	 |   |   |  | Geometria I |
 |14-16|	 | Tut. alla Pari <br> Aula 2 |   |  | Analisi I |
 |16-18|	 |   |   |  |  | 
