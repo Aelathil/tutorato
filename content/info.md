@@ -19,9 +19,9 @@ L'orario dovrebbe essere **definitivo**. Controllate **comunque** spesso la tabe
 
 |  | Lun | Mar | Mer | Gio | Ven |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|9-11| 	 |   |   |  | Geometria I <br> Aula Riunioni |
-|11-13|	 |   |   |  | Aritmetica <br> Aula P1 |
-|14-16|	 | Tut. alla Pari <br> Aula 2 |   |  | Analisi I <br> Aula P1 |
+|9-11| 	 |   |   |  |  |
+|11-13|	 |   |   |  | Geometria I |
+|14-16|	 | Tut. alla Pari <br> Aula 2 |   |  | Analisi I |
 |16-18|	 |   |   |  |  | 
 |18-20|  |   |   |  |  | 
 
