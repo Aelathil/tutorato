@@ -13,8 +13,7 @@ L'orario dovrebbe essere **definitivo**. Controllate **comunque** spesso la tabe
 
 **NB:** Con "Geometria I" intendiamo il tutorato **generico** focalizzato su Geometria I, **non** l'esercitazione del giovedì.
 
-**NB2:** Notate che abbiamo scambiato gli orari di Geometria I e Aritmetica per questa settimana: sono rispettivamente alle 9 e alle 11.
-
+**NB2:** Il tutorato di Aritmetica di giovedì si terrà al posto della usuale lezione.
 <div align="center" style="margin-top:1cm;">
 
 |  | Lun | Mar | Mer | Gio | Ven |
