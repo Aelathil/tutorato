@@ -13,14 +13,13 @@ L'orario dovrebbe essere **definitivo**. Controllate **comunque** spesso la tabe
 
 **NB:** Con "Geometria I" intendiamo il tutorato **generico** focalizzato su Geometria I, **non** l'esercitazione del giovedì.
 
-**NB2:** Il tutorato di Aritmetica di giovedì si terrà al posto della usuale lezione.
-<div align="center" style="margin-top:1cm;">
+**NB2:** Questa settimana **non** ci sarà il tutorato generico su G1. 
 
 |  | Lun | Mar | Mer | Gio | Ven |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|9-11| 	 |   |   | Aritmetica <br> Aula G |  |
-|11-13|	 |   |   |  | Tut. alla Pari <br> Aula 2 |
-|14-16|	 | Tut. alla Pari <br> Aula 2 |   |  |
+|9-11| 	 |   |   |  | Aritmetica  |
+|11-13|	 |   |   |  |  |
+|14-16|	 |   |   |  | Analisi I |
 |16-18|	 |   |   |  |  | 
 |18-20|  |   |   |  |  | 
 
