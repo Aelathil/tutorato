@@ -19,8 +19,8 @@ L'orario dovrebbe essere **definitivo**. Controllate **comunque** spesso la tabe
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |9-11| 	 |   |   |  | Aritmetica <br> Aula P1  |
 |11-13|	 |   |   |  | Tutorato alla Pari <br> Aula 2  |
-|14-16|	 |  |   |  | Geometria 1 <br> Aula P1 |
-|16-18|	 |   |   |  | Analisi 1 <br> Aula P1 | 
+|14-16|	 |  |   |  | Geometria I <br> Aula P1 |
+|16-18|	 |   |   |  | Analisi I <br> Aula P1 | 
 |18-20|  |   |  Tutorato alla Pari <br> Aula 2 |  |  | 
 
 </div>
