@@ -17,10 +17,10 @@ L'orario dovrebbe essere **definitivo**. Controllate **comunque** spesso la tabe
 
 |  | Lun | Mar | Mer | Gio | Ven |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|9-11| 	 |   |   |  | Aritmetica <br> Aula Magna  |
+|9-11| 	 |   |   |  | Aritmetica <br> Aula P1  |
 |11-13|	 |   |   |  | Tutorato alla Pari <br> Aula 2  |
-|14-16|	 | Tutorato alla Pari <br> Aula 2 |   |  |  |
-|16-18|	 |   |   |  | Analisi 1 <br> Aula O1 | 
-|18-20|  |   |   |  |  | 
+|14-16|	 |  |   |  | Geometria 1 <br> Aula P1 |
+|16-18|	 |   |   |  | Analisi 1 <br> Aula P1 | 
+|18-20|  |   |  Tutorato alla Pari <br> Aula 2 |  |  | 
 
 </div>
