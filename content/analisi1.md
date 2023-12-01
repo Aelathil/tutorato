@@ -26,3 +26,4 @@ In questa sezione ho intenzione di caricare i pdf dei tutorati svolti. Non scriv
 
 - Tutorato del [13 ottobre 2023](/TutoratoAnalisi13102023.pdf).
 - Tutorato del [20 ottobre 2023](/TutoratoAnalisi2010.pdf).
+- Tutorato del [1 dicembre 2023](/LezioneNumeriComplessi.pdf).
