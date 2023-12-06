@@ -11,14 +11,14 @@ Precisiamo che **il tutorato alla pari**, in cui potete fare domande su qualsias
 
 L'orario dovrebbe essere **definitivo**. Controllate **comunque** spesso la tabella sotto per eventuali variazioni e per le aule.
 
-**NB:** Con "Geometria I" intendiamo il tutorato **generico** focalizzato su Geometria I, **non** l'esercitazione del giovedì.
+**NB:** Questa settimana ci sarà comunque tutorato venerdì 8, in Aula 2 del Dipartimento.
 
 |  | Lun | Mar | Mer | Gio | Ven |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|9-11| 	 |   |   |  | Aritmetica <br> Aula P1  |
-|11-13|	 |   |   |  | Tutorato alla Pari <br> Aula 2  |
-|14-16|	 | Tutorato alla Pari <br> Aula 2 |   |  | Geometria I <br> Aula P1 |
-|16-18|	 |   |   |  | Analisi I <br> Aula P1 | 
+|9-11| 	 |   |   |  | Geometria I <br> Aula 2  |
+|11-13|	 |   |   |  | Aritmetica <br> Aula 2  |
+|14-16|	 | Tutorato alla Pari <br> Aula 2 |   |  | Tutorato alla Pari <br> Aula 2 |
+|16-18|	 |   |   |  |  | 
 |18-20|  |   |   |  |  | 
 
 </div>
