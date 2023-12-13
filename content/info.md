@@ -17,6 +17,6 @@ Di norma, i tutorati specifici sono il **venerdì**. Controllate comunque spesso
 |11-13|	 |   |   |  | Geometria I <br> Aula O1  |
 |14-16|	 | Tutorato alla Pari <br> Aula 2 |   |  | Analisi I <br> Aula Seminari |
 |16-18|	 |   |   |  | Aritmetica <br> Aula O1 | 
-|18-20|  |   |   |  |  | 
+|18-20|  |   |   | Tutorato alla Pari <br> Aula 2 |  | 
 
 </div>
