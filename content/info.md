@@ -11,9 +11,11 @@ Precisiamo che **il tutorato alla pari**, in cui potete fare domande su qualsias
 
 Di norma, i tutorati specifici sono il **venerdì**. Controllate comunque spesso la tabella sotto per eventuali variazioni e per le aule.
 
+I tutorati riprenderanno dopo le vacanze. Buon Natale!
+
 |  | Lun | Mar | Mer | Gio | Ven |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|9-11| Aritmetica <br> Aula G |   |   |  |  |
+|9-11|  |   |   |  |  |
 |11-13|	 |   |   |  | |
 |14-16|	 |  |   |  |  |
 |16-18|	 |   |   |  |  | 
