@@ -11,7 +11,7 @@ Precisiamo che **il tutorato alla pari**, in cui potete fare domande su qualsias
 
 Di norma, i tutorati specifici sono il **venerdì**. Controllate comunque spesso la tabella sotto per eventuali variazioni e per le aule.
 
-I tutorati riprenderanno dopo le vacanze. Buon Natale!
+I tutorati riprenderanno a gennaio. Buone vacanze!
 
 |  | Lun | Mar | Mer | Gio | Ven |
 |:---:|:---:|:---:|:---:|:---:|:---:|
