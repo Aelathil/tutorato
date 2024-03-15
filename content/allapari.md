@@ -1,5 +1,5 @@
 ## Info
 
-**Tutor:** Simona Felice, Simone Tagliente, Susanna Terron.
+**Tutor:** Simona Felice, Danilo Calcinaro, Andrea Rocca, Giorgia Benassi.
 
  
