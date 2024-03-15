@@ -10,6 +10,9 @@ Infine, ricordo a tutt* che, nel caso in cui sorgesse un qualche piccolo dubbio 
 
 ## Esercizi da consegnare 
 
+Per quanto riguarda le lezioni di recupero, ho preparato qualche esercizio tipo che potete svolgere e consegnare. Mi raccomando la forma, sia dal punto di vista matematico che da quello grafico!
+
+-[Prima consegna](/EserciziTutorato (1).pdf)
 
 ## Pdf dei Tutorati svolti
 
