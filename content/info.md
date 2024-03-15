@@ -13,9 +13,9 @@ Precisiamo che **il tutorato alla pari**, in cui potete fare domande su qualsias
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |9-11|  |   |   |  |  |
 |11-13|	 |   |   |  | |
-|14-16|	 | Analisi I |   | Alla pari |  |
-|16-18|	 | Alla pari  |   |  |  |
-|17-19|  |   | Alla pari |  |  |
+|14-16|	 | Analisi I |   | Alla pari<br> Aula 2 |  |
+|16-18|	 | Alla pari<br> Aula 2 |   |  |  |
+|17-19| Geometria 1<br> Ogni 2 settimane |   | Alla pari<br> Aula 2 |  |  |
 |18-20|  |   |   |  |  | 
 
 </div>
