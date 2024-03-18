@@ -1,6 +1,6 @@
 baseURL = 'https://tutorato.phc.dm.unipi.it'
 languageCode = 'it-it'
-title = 'Tutorato 2023-2024, I semestre'
+title = 'Tutorato 2023-2024, II semestre'
 theme = 'hugo-theme-texify'
 
 paginate = 5                              # number of posts each page
