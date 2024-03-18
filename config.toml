@@ -33,7 +33,7 @@ weight = 3
 identifier = "algebra1"
 name = "Algebra I"
 url = "/algebra1/"
-weight = 5
+weight = 2
 
 [[menu.main]]
 identifier = "analisi"
