@@ -28,6 +28,13 @@ identifier = "aritmetica"
 name = "Aritmetica"
 url = "/aritmetica/"
 weight = 3
+
+[[menu.main]]
+identifier = "algebra1"
+name = "Algebra I"
+url = "/algebra1/"
+weight = 5
+
 [[menu.main]]
 identifier = "analisi"
 name = "Analisi I"
