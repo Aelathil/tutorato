@@ -2,4 +2,4 @@
 
 **Tutor:** Cristofer Villani.
 
-Il primo incontro di tutorato si terrà venerdì 22 marzo 2022 alle 14 in aula N1. 
+Sto scrivendo il foglio di esercizi. Aggiornerò questa pagina con il materiale e le info entro domenica 24 marzo sera!
