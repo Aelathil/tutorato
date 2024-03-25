@@ -5,6 +5,7 @@
 Sto scrivendo il foglio di esercizi (sono un po' in ritardo!).
 
 Prossimo incontro: 
+
 Per il prossimo incontro: Rivedere le lezioni 1-6 (fino al teorema di Poincaré). 
 
 Esercizi: 
