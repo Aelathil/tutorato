@@ -16,7 +16,7 @@ Lo sto ancora scrivendo, per l'incontro di mercoledì trovate gli esercizi sotto
 
 ## Prossimo incontro
 
-**Data e Aula:** mercoledì 27 marzo, ore 14-16. Scriverò l'aula appena me la daranno.
+**Data e Aula:** mercoledì 27 marzo, ore 16-18. Scriverò l'aula appena me la daranno.
 
 **Teoria:** Rivedere le lezioni 1-6 (fino al teorema di Poincaré). 
 
