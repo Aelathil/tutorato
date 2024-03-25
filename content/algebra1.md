@@ -2,4 +2,12 @@
 
 **Tutor:** Cristofer Villani.
 
-Sto scrivendo il foglio di esercizi. Aggiornerò questa pagina con il materiale e le info entro domenica 24 marzo sera!
+Sto scrivendo il foglio di esercizi (sono un po' in ritardo!).
+
+Prossimo incontro: 
+Per il prossimo incontro: Rivedere le lezioni 1-6 (fino al teorema di Poincaré). 
+Esercizi: 
+- dal libro, es. 10, 11, 16, 17, 19;
+- mostrate che $\mathbb{Z}$ non è isomorfo al gruppo di automorfismi $\operatorname{Aut}(G)$ di alcun gruppo $G$. 
+
+
