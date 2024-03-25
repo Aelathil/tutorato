@@ -23,9 +23,9 @@ Lo sto ancora scrivendo, per l'incontro di mercoledì trovate gli esercizi sotto
 **Esercizi:** 
 - dal libro, es. 10, 11, 16, 17, 19;
 - mostrate che $\mathbb{Z}$ non è isomorfo al gruppo di automorfismi $\text{Aut}(G)$ di alcun gruppo $G$;
-- sia $G$ un gruppo che agisce *transitivamente* su un insieme $X$ (i.e., c'è una sola orbita), e sia $N$ un sottogruppo normale di $G$.
-  - mostrate che, se $x,y\in X$, $\text{stab}(x)$ e $\text{stab}(y)$ sono coniugati;
-  - mostrate che l'azione di $N$ su $X$ non è necessariamente transitiva;
-  - mostrate che le orbite dell'azione di $N$ su $X$ hanno tutte la stessa cardinalità. 
+- sia $G$ un gruppo che agisce *transitivamente* su un insieme $X$ (i.e., c'è una sola orbita), e sia $N$ un sottogruppo normale di $G$. Dimostrate che
+  - se $x,y\in X$, $\text{stab}(x)$ e $\text{stab}(y)$ sono coniugati;
+  - l'azione di $N$ su $X$ non è necessariamente transitiva;
+  - le orbite dell'azione di $N$ su $X$ hanno tutte la stessa cardinalità. 
 
 
