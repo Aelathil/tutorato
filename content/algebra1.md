@@ -21,7 +21,7 @@ Lo sto ancora scrivendo, per l'incontro di mercoledì trovate gli esercizi sotto
 **Teoria:** Rivedere le lezioni 1-6 (fino al teorema di Poincaré). 
 
 **Esercizi:** 
-- dal libro, es. 10, 11, 16, 17, 19;
+- dal libro, es. 10, 12, 16, 17, 19;
 - mostrate che $\mathbb{Z}$ non è isomorfo al gruppo di automorfismi $\text{Aut}(G)$ di alcun gruppo $G$;
 - sia $G$ un gruppo che agisce *transitivamente* su un insieme $X$ (i.e., c'è una sola orbita), e sia $N$ un sottogruppo normale di $G$. Dimostrate che
   - se $x,y\in X$, $\text{stab}(x)$ e $\text{stab}(y)$ sono coniugati;
