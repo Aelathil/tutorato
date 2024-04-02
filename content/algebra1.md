@@ -36,7 +36,7 @@ incontro. In questo modo,
 - Sia $G$ un gruppo finito, e sia $p$ un primo tale che $p$ divide $|G|$. Mostrate che il numero di sottogruppi di ordine $p$ in $G$ è congruo a $1$ modulo $p$. _Hint: può essere utile ripartire dalla dimostrazione del teorema di Cauchy via azione di_ $\mathbb{Z}/p$.
 - Sia $G$ un gruppo finito, e sia $H\leq G$. Consideriamo l’azione di $G$ per moltiplicazione (a sinistra) sui laterali (sinistri) di $H$, vale a dire $G\curvearrowright G/H=\lbrace xH\mid x\in G\rbrace$, $g(xH) \coloneqq gxH$.
   - Dimostrate che, per $x\in G$, lo stabilizzatore di $xH$ è $xHx^{-1}$.
-  - Dimostrate che il numero di punti fissi dell'azione, i.e. il numero di laterali $xH$ tali che $gxH=xH$ per ogni $g\in G$, coincide con $[\mathbf{N}_G(H):H]$.
+  - Dimostrate che il numero di punti fissi dell'azione _ristretta ad_ $H$, i.e. il numero di laterali $xH$ tali che $gxH=xH$ per ogni $g\in H$, coincide con $[\mathbf{N}_G(H):H]$.
   - Supponiamo che $H$ sia un $p$-sottogruppo di $G$, cioè $|H|=p^k$ per qualche $k$ e un fissato primo $p$. Se $[G:H]$ è divisibile per $p$, mostrate che anche $[\mathbf{N}_G(H):H]$ è divisibile per $p$. 
 
 
