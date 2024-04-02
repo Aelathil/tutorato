@@ -32,6 +32,6 @@ incontro. In questo modo,
   - Calcolate $|G|$.
   - Determinate $\text{Z}(G)$.
   - ($\star$) Mostrate che $G/\text{Z}(G)\simeq S_4$.
-- Per $H,K < G$, un _laterale doppio_ di $H$ e $K$ è un sottoinsieme della forma $HgK=\left\{hgk|h\in H, k\in K\right\}$, per qualche $g\in G$. Se $H$ e $K$ sono finiti, e $g\in G$, mostrate che vale $|HgK|=|H|\cdot|K||K\cap g^{-1}Hg|$.
+- Per $H,K < G$, un _laterale doppio_ di $H$ e $K$ è un sottoinsieme della forma $HgK=\lbrace hgk\mid h\in H, k\in K\rbrace$, per qualche $g\in G$. Se $H$ e $K$ sono finiti, e $g\in G$, mostrate che vale $|HgK|=|H|\cdot|K||K\cap g^{-1}Hg|$.
 
 
