@@ -14,7 +14,7 @@ incontro. In questo modo,
 
 **Tutorato 1:** 
 - dal libro, es. 10, 12, 16, 17, 19;
-- mostrate che $\mathbb{Z/d}$, per $d$ dispari, non è isomorfo al gruppo di automorfismi $\text{Aut}(G)$ di alcun gruppo finito $G$;
+- mostrate che $\mathbb{Z}/d$, per $d$ dispari, non è isomorfo al gruppo di automorfismi $\text{Aut}(G)$ di alcun gruppo finito $G$;
 - sia $G$ un gruppo che agisce *transitivamente* su un insieme $X$ (i.e., c'è una sola orbita), e sia $N$ un sottogruppo normale di $G$. Dimostrate che
   - se $x,y\in X$, $\text{stab}(x)$ e $\text{stab}(y)$ sono coniugati;
   - l'azione di $N$ su $X$ non è necessariamente transitiva;
@@ -33,6 +33,6 @@ incontro. In questo modo,
   - Determinate $\text{Z}(G)$.
   - ($\star$) Mostrate che $G/\text{Z}(G)\simeq S_4$.
 - Per $H,K < G$, un _laterale doppio_ di $H$ e $K$ è un sottoinsieme della forma $HgK=\lbrace hgk\mid h\in H, k\in K\rbrace$, per qualche $g\in G$. Se $H$ e $K$ sono finiti, e $g\in G$, mostrate che vale $|HgK|=|H|\cdot|K||K\cap g^{-1}Hg|$.
-- Sia $G$ un gruppo finito, e sia $p$ un primo tale che $p$ divide $|G|$. Mostrate che il numero di sottogruppi di ordine $p$ in $G$ è congruo a $1$ modulo $p$. _Hint: può essere utile ripartire dalla dimostrazione del teorema di Cauchy via azione di_ $\mathbf{Z}/p$.
+- Sia $G$ un gruppo finito, e sia $p$ un primo tale che $p$ divide $|G|$. Mostrate che il numero di sottogruppi di ordine $p$ in $G$ è congruo a $1$ modulo $p$. _Hint: può essere utile ripartire dalla dimostrazione del teorema di Cauchy via azione di_ $\mathbb{Z}/p$.
 
 
