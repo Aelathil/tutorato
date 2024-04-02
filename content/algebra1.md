@@ -34,8 +34,9 @@ incontro. In questo modo,
   - ($\star$) Mostrate che $G/\text{Z}(G)\simeq S_4$.
 - Per $H,K < G$, un _laterale doppio_ di $H$ e $K$ è un sottoinsieme della forma $HgK=\lbrace hgk\mid h\in H, k\in K\rbrace$, per qualche $g\in G$. Se $H$ e $K$ sono finiti, e $g\in G$, mostrate che vale $|HgK|=|H|\cdot|K|/|K\cap g^{-1}Hg|$.
 - Sia $G$ un gruppo finito, e sia $p$ un primo tale che $p$ divide $|G|$. Mostrate che il numero di sottogruppi di ordine $p$ in $G$ è congruo a $1$ modulo $p$. _Hint: può essere utile ripartire dalla dimostrazione del teorema di Cauchy via azione di_ $\mathbb{Z}/p$.
-- Sia $G$ un gruppo finito, e sia $H<G$. Consideriamo l’azione di $G$ per moltiplicazione (a sinistra) sui laterali (sinistri) di $H$, vale a dire $G\curvearrowright G/H=\lbrace xH\mid x\in G\rbrace$, $g(xH) \coloneqq gxH$.
+- Sia $G$ un gruppo finito, e sia $H\leq G$. Consideriamo l’azione di $G$ per moltiplicazione (a sinistra) sui laterali (sinistri) di $H$, vale a dire $G\curvearrowright G/H=\lbrace xH\mid x\in G\rbrace$, $g(xH) \coloneqq gxH$.
   - Dimostrate che, per $x\in G$, lo stabilizzatore di $xH$ è $xHx^{-1}$.
-  - Dimostrate che il numero di punti fissi dell'azione, i.e. il numero di laterali $xH$ tali che $gxH=xH$ per ogni $g\in G$, coincide con $[G:\mathbf{N}_G(H):H]$.
+  - Dimostrate che il numero di punti fissi dell'azione, i.e. il numero di laterali $xH$ tali che $gxH=xH$ per ogni $g\in G$, coincide con $[\mathbf{N}_G(H):H]$.
+  - Supponiamo che $H$ sia un $p$-sottogruppo di $G$, cioè $|H|=p^k$ per qualche $k$ e un fissato primo $p$. Se $[G:H]$ è divisibile per $p$, mostrate che anche $[\mathbf{N}_G(H):H]$ è divisibile per $p$. 
 
 
