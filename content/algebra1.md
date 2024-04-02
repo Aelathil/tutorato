@@ -10,22 +10,28 @@ incontro. In questo modo,
 - potrete partecipare attivamente alla correzione;
 - potrò darvi dei feedback sulla *scrittura* delle soluzioni, che è tanto importante quanto le soluzioni stesse.
 
-## Foglio di esercizi
+## Esercizi passati
 
-Lo sto ancora scrivendo, per l'incontro di mercoledì trovate gli esercizi sotto. 
-
-## Prossimo incontro
-
-**Data e Aula:** mercoledì 27 marzo ore 16-18, **Aula N**.
-
-**Teoria:** Rivedere le lezioni 1-6 (fino al teorema di Poincaré). 
-
-**Esercizi:** 
+**Tutorato 1:** 
 - dal libro, es. 10, 12, 16, 17, 19;
-- mostrate che $\mathbb{Z}$ non è isomorfo al gruppo di automorfismi $\text{Aut}(G)$ di alcun gruppo $G$;
+- mostrate che $\mathbb{Z/d}$, per $d$ dispari, non è isomorfo al gruppo di automorfismi $\text{Aut}(G)$ di alcun gruppo finito $G$;
 - sia $G$ un gruppo che agisce *transitivamente* su un insieme $X$ (i.e., c'è una sola orbita), e sia $N$ un sottogruppo normale di $G$. Dimostrate che
   - se $x,y\in X$, $\text{stab}(x)$ e $\text{stab}(y)$ sono coniugati;
   - l'azione di $N$ su $X$ non è necessariamente transitiva;
   - le orbite dell'azione di $N$ su $X$ hanno tutte la stessa cardinalità. 
+
+## Prossimo incontro
+
+**Data e Aula:** Vista la pausa di questa settimana, la prossima vorrei fare due tutorati, se siete d'accordo. Uno (il secondo) sarà venerdì 12 nello slot 14-16; per l'altro, vi chiedo di indicare le vostre disponibilità di orario qui: https://www.when2meet.com/?24419706-DmcPy. 
+
+**Teoria:** Rivedere le lezioni 7-12, con particolare attenzione a prodotti semidiretti & teoremi di Sylow. 
+
+**Esercizi:** 
+- dal libro, es. 28,29, 110, 115. 
+- sia $G=\text{GL}(2,\mathbb{F}_3)$.
+  - Calcolate $|G|$.
+  - Determinate $\text{Z}(G)$.
+  - ($\star$) Mostrate che $G/\text{Z}(G)\simeq S_4$.
+- Per $H,K < G$, un \emph{laterale doppio} di $H$ e $K$ è un sottoinsieme della forma $HgK=\{hgk|h\in H, k\in K\}$, per qualche $g\in G$. Se $H$ e $K$ sono finiti, e $g\in G$, mostrate che vale $|HgK|=|H|\cdot|K||K\cap g^{-1}Hg|$.
 
 
