@@ -22,11 +22,11 @@ incontro. In questo modo,
 
 ## Prossimo incontro
 
-**Data e Aula:** Vista la pausa di questa settimana, la prossima vorrei fare due tutorati, se siete d'accordo. Uno (il secondo) sarà venerdì 12 nello slot 14-16; per l'altro, vi chiedo di indicare le vostre disponibilità di orario qui: https://www.when2meet.com/?24419706-DmcPy. 
+**Data e Aula:** I tutorati di questa settimana saranno due: **mercoledì 10 aprile 16-18** e **venerdì 12 aprile 14-16**. Scriverò le aule appena le saprò.
 
 **Teoria:** Rivedere le lezioni 7-12, con particolare attenzione a prodotti semidiretti & teoremi di Sylow. 
 
-**Esercizi:** 
+**Esercizi, da consegnare entro martedì 11 aprile:** 
 - Dal libro, es. 28, 29, 110, 115. 
 - Sia $G=\text{GL}(2,\mathbb{F}_3)$.
   - Calcolate $|G|$.
