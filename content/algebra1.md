@@ -22,7 +22,7 @@ incontro. In questo modo,
 
 ## Prossimo incontro
 
-**Data e Aula:** I tutorati di questa settimana saranno due: **mercoledì 10 aprile 16-18** e **venerdì 12 aprile 14-16**. Scriverò le aule appena le saprò.
+**Data e Aula:** I tutorati di questa settimana saranno due: **mercoledì 10 aprile 16-18** e **venerdì 12 aprile 14-16**. In entrambi i casi, il tutorato sarà in **Aula N**.
 
 **Teoria:** Rivedere le lezioni 7-12, con particolare attenzione a prodotti semidiretti & teoremi di Sylow. 
 
