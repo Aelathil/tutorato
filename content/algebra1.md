@@ -10,6 +10,37 @@ incontro. In questo modo,
 - potrete partecipare attivamente alla correzione;
 - potrò darvi dei feedback sulla *scrittura* delle soluzioni, che è tanto importante quanto le soluzioni stesse.
 
+## Prossimo incontro
+
+**Data e Aula:** Per scegliere la data del tutorato della prossima settimana (che sarà necessariamente entro giovedì), vi chiederei di indicare le vostre disponibilità qui: https://www.when2meet.com/?24595302-cGFjf. 
+
+**Teoria:** Rivedere le lezioni 13-16, concludendo il ripasso sui Gruppi.  
+
+**Esercizi:**
+- dal libro, es. 57, 89, 122, 124.
+- Sia $G$ un gruppo finito tale che tutti i suoi sottogruppi massimali sono coniugati.
+  - Provate che $G$ è un $p$-gruppo.
+  - Concludete che $G$ è ciclico di ordine $p^n$ per certi $p$ ed $n$.
+- Sia $G$ un gruppo di ordine $p^3q$, per certi primi $p,q$. Supponiamo che $n_p(G), n_q(G)>1$.  
+  - Mostrate che dev'essere $|G|=24$.
+  - ($\star$) Concludete che $G\simeq S_4$.
+- Sia $G$ un gruppo, e sia $\phi:G\to \text{Aut}(G)$ la mappa che manda $g\in G$ nel coniugio per $g$. Mostrate che $G\rtimes_\phi G\simeq G\times G$.
+- Sia $G$ un gruppo di ordine $n$, e sia $\phi:G\to S_n$ l'immersione di Cayley.
+  - Dimostrate che $\bold{N}_{S_n}(\phi(G))\simeq G\rtimes \text{Aut}(G)$, con l'azione naturale di $\text{Aut}(G)$ su $G$.
+  - Ritrovate (o deducete) il fatto seguente: se $\sigma\in S_n$ è un $n$-ciclo, $\bold{N}_{S_n}(\langle\sigma\rangle)\simeq \mathbb{Z}/n\rtimes(\mathbb{Z}/n)^*.
+- Sia $G=N\rtimes_\phi H$ un prodotto semidiretto, e supponiamo $Z(N)=1$ e $\text{im}\phi\subset\text{Inn}(N)<\text{Aut}(N). Mostrate che $G\simeq N\times \bold{C}_G(N)$.     
+- Sia $G$ un gruppo finito. Mostrate che le seguenti condizioni sono equivalenti:
+  i) i normalizzatori dei sottogruppi di $G$ crescono, cioè: se $H\lneq G$, vale $N_G(H)\supsetneq H$;
+  ii) i sottogruppi massimali di $G$ sono normali; 
+  iii) i $p$-Sylow di $G$ sono normali; 
+  iv) $G$ è prodotto diretto dei suoi $p$-Sylow;
+  v) ogni quoziente non banale di $G$ ha centro non banale.
+[Hint: l'ordine in cui mostrare le implicazioni è quello indicato. Per l'implicazione da (ii) a (iii) è utile l'esercizio sopra]. Un gruppo finito con una qualsiasi delle proprietà sopra si dice _nilpotente_. Notate che tutti i gruppi abeliani e tutti i $p$-gruppi sono nilpotenti; in particolare, i $p$-gruppi hanno le proprietà (i) e (ii) sopra!
+- Sia $G$ un gruppo finito. 
+  - Sia $G\curvearrowright X$ un'azione _transitiva_, e supponiamo che la sua restrizione a un sottogruppo $H<G$ sia ancora transitiva. Mostrate che allora $G=H\cdot\text{stab}_G(x)$ per un qualsiasi $x\in X$.
+  - (Argomento di Frattini) Se $N<G$ è un sottogruppo normale di $G$, e $P$ è un $p$-Sylow di $N$, mostrate che $G=N\cdot\bold{N}_G(P)$. 
+  
+
 ## Esercizi passati
 
 **Tutorato 1:** 
@@ -20,13 +51,7 @@ incontro. In questo modo,
   - l'azione di $N$ su $X$ non è necessariamente transitiva;
   - le orbite dell'azione di $N$ su $X$ hanno tutte la stessa cardinalità. 
 
-## Prossimo incontro
-
-**Data e Aula:** I tutorati di questa settimana saranno due: **mercoledì 10 aprile 16-18** e **venerdì 12 aprile 14-16**. In entrambi i casi, il tutorato sarà in **Aula N**.
-
-**Teoria:** Rivedere le lezioni 7-12, con particolare attenzione a prodotti semidiretti & teoremi di Sylow. 
-
-**Esercizi, da consegnare entro martedì 11 aprile:** 
+**Tutorato 2:** 
 - Dal libro, es. 28, 29, 110, 115. 
 - Sia $G=\text{GL}(2,\mathbb{F}_3)$.
   - Calcolate $|G|$.
@@ -34,7 +59,7 @@ incontro. In questo modo,
   - ($\star$) Mostrate che $G/\text{Z}(G)\simeq S_4$.
 - Per $H,K < G$, un _laterale doppio_ di $H$ e $K$ è un sottoinsieme della forma $HgK=\lbrace hgk\mid h\in H, k\in K\rbrace$, per qualche $g\in G$. Se $H$ e $K$ sono finiti, e $g\in G$, mostrate che vale $|HgK|=|H|\cdot|K|/|K\cap g^{-1}Hg|$.
 - Sia $G$ un gruppo finito, e sia $p$ un primo tale che $p$ divide $|G|$. Mostrate che il numero di sottogruppi di ordine $p$ in $G$ è congruo a $1$ modulo $p$. _Hint: può essere utile ripartire dalla dimostrazione del teorema di Cauchy via azione di_ $\mathbb{Z}/p$.
-- Sia $G$ un gruppo finito, e sia $H\leq G$. Consideriamo l’azione di $G$ per moltiplicazione (a sinistra) sui laterali (sinistri) di $H$, vale a dire $G\curvearrowright G/H=\lbrace xH\mid x\in G\rbrace$, $g(xH) \coloneqq gxH$.
+- Sia $G$ un gruppo finito, e sia $H < G$. Consideriamo l’azione di $G$ per moltiplicazione (a sinistra) sui laterali (sinistri) di $H$, vale a dire $G\curvearrowright G/H=\lbrace xH\mid x\in G\rbrace$, $g(xH) \coloneqq gxH$.
   - Dimostrate che, per $x\in G$, lo stabilizzatore di $xH$ è $xHx^{-1}$.
   - Dimostrate che il numero di punti fissi dell'azione _ristretta ad_ $H$, i.e. il numero di laterali $xH$ tali che $gxH=xH$ per ogni $g\in H$, coincide con $[\mathbf{N}_G(H):H]$.
   - Supponiamo che $H$ sia un $p$-sottogruppo di $G$, cioè $|H|=p^k$ per qualche $k$ e un fissato primo $p$. Se $[G:H]$ è divisibile per $p$, mostrate che anche $[\mathbf{N}_G(H):H]$ è divisibile per $p$.
