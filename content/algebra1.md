@@ -35,7 +35,7 @@ incontro. In questo modo,
   4) $G$ è prodotto diretto dei suoi $p$-Sylow;
   5) ogni quoziente non banale di $G$ ha centro non banale.
 
-_Hint: l'ordine in cui mostrare le implicazioni è quello indicato. Per l'implicazione da 2. a 3. è utile l'esercizio precedente_. Un gruppo finito con una qualsiasi delle proprietà sopra si dice _nilpotente_. Notate che tutti i gruppi abeliani e tutti i $p$-gruppi sono nilpotenti; in particolare, i $p$-gruppi hanno le proprietà (i) e (ii) sopra!
+_Hint: l'ordine in cui mostrare le implicazioni è quello indicato. Per l'implicazione da 2. a 3. è utile l'esercizio precedente_. Un gruppo finito con una qualsiasi delle proprietà sopra si dice _nilpotente_. Notate che tutti i gruppi abeliani finiti e tutti i $p$-gruppi finiti sono nilpotenti; in particolare, i $p$-gruppi hanno le proprietà (i) e (ii) sopra!
 - (Una generalizzazione dell'esempio $S_3\rtimes \mathbb{Z}/2$) Sia $G=N\rtimes_\varphi H$ un prodotto semidiretto, e supponiamo $Z(N)=1$ e $\text{im}\varphi\subset\text{Inn}(N)<\text{Aut}(N)$. Mostrate che $G\simeq N\times \mathbf{C}_G(N)$.     
 - Sia $G$ un gruppo di ordine $n$, e sia $\varphi:G\to S_n$ l'immersione di Cayley, i.e. quella indotta dall'azione $G\curvearrowright G$ per moltiplicazione.
   - ($\star$) Dimostrate che $\mathbf{N}_{S_n}(\varphi(G))\simeq G\rtimes \text{Aut}(G)$, con l'azione naturale di $\text{Aut}(G)$ su $G$.
