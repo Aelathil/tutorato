@@ -34,7 +34,7 @@ incontro. In questo modo,
   3) i $p$-Sylow di $G$ sono normali; 
   4) $G$ è prodotto diretto dei suoi $p$-Sylow;
   5) ogni quoziente non banale di $G$ ha centro non banale.
-- (Una generalizzazione dell'esempio $S_3\rtimes \mathbb{Z}/2$) Sia $G=N\rtimes_\varphi H$ un prodotto semidiretto, e supponiamo che $Z(N)=1$ e $H$ agisca su $N$ per automorfismi _interni_, i.e. $\text{im}\varphi\subset\text{Inn}(N)<\text{Aut}(N)$. Mostrate che $G\simeq N\times \mathbf{C}_G(N)$.     
+- (Una generalizzazione dell'esempio $S_3\rtimes \mathbb{Z}/2$) Sia $G=N\rtimes_\varphi H$ un prodotto semidiretto, e supponiamo che $Z(N)=1$ e $H$ agisca su $N$ per automorfismi _interni_, i.e. $\text{im}\,\varphi\subset\text{Inn}(N)<\text{Aut}(N)$. Mostrate che $G\simeq N\times \mathbf{C}_G(N)$.     
 - Sia $G$ un gruppo di ordine $n$, e sia $\varphi:G\to S_n$ l'immersione di Cayley, i.e. quella indotta dall'azione $G\curvearrowright G$ per moltiplicazione.
   - ($\star$) Dimostrate che $\mathbf{N}_{S_n}(\varphi(G))\simeq G\rtimes \text{Aut}(G)$, con l'azione naturale di $\text{Aut}(G)$ su $G$.
   - Ritrovate (o deducete) il fatto seguente: se $\sigma\in S_n$ è un $n$-ciclo, $\mathbf{N}_{S_n}(\langle\sigma\rangle)\simeq \mathbb{Z}/n\rtimes(\mathbb{Z}/n)^*$.
