@@ -24,11 +24,11 @@ incontro. In questo modo,
 - Sia $G$ un gruppo di ordine $p^3q$, per certi primi $p,q$. Supponiamo che $n_p(G), n_q(G)>1$.  
   - Mostrate che dev'essere $|G|=24$.
   - ($\star$) Concludete che $G\simeq S_4$.
+
+Esercizi citati in classe: 
+
 - Sia $G$ un gruppo, e sia $\varphi:G\to \text{Aut}(G)$ la mappa che manda $g\in G$ nel coniugio per $g$. Mostrate che $G\rtimes_\varphi G\simeq G\times G$.
-- Sia $G$ un gruppo di ordine $n$, e sia $\varphi:G\to S_n$ l'immersione di Cayley.
-  - Dimostrate che $\mathbf{N}_{S_n}(\varphi(G))\simeq G\rtimes \text{Aut}(G)$, con l'azione naturale di $\text{Aut}(G)$ su $G$.
-  - Ritrovate (o deducete) il fatto seguente: se $\sigma\in S_n$ è un $n$-ciclo, $\mathbf{N}_{S_n}(\langle\sigma\rangle)\simeq \mathbb{Z}/n\rtimes(\mathbb{Z}/n)^*$.
-- Sia $G=N\rtimes_\varphi H$ un prodotto semidiretto, e supponiamo $Z(N)=1$ e $\text{im}\varphi\subset\text{Inn}(N)<\text{Aut}(N)$. Mostrate che $G\simeq N\times \mathbf{C}_G(N)$.     
+- (Una generalizzazione dell'esempio $S_3\rtimes \mathbb{Z}/2$) Sia $G=N\rtimes_\varphi H$ un prodotto semidiretto, e supponiamo $Z(N)=1$ e $\text{im}\varphi\subset\text{Inn}(N)<\text{Aut}(N)$. Mostrate che $G\simeq N\times \mathbf{C}_G(N)$.     
 - Sia $G$ un gruppo finito. Mostrate che le seguenti condizioni sono equivalenti:
   1) i normalizzatori dei sottogruppi di $G$ crescono, cioè: se $H\lneq G$, vale $N_G(H)\supsetneq H$;
   2) i sottogruppi massimali di $G$ sono normali; 
@@ -36,11 +36,13 @@ incontro. In questo modo,
   4) $G$ è prodotto diretto dei suoi $p$-Sylow;
   5) ogni quoziente non banale di $G$ ha centro non banale.
 
-[Hint: l'ordine in cui mostrare le implicazioni è quello indicato. Per l'implicazione da 2. a 3. è utile l'esercizio sopra]. Un gruppo finito con una qualsiasi delle proprietà sopra si dice _nilpotente_. Notate che tutti i gruppi abeliani e tutti i $p$-gruppi sono nilpotenti; in particolare, i $p$-gruppi hanno le proprietà (i) e (ii) sopra!
+[Hint: l'ordine in cui mostrare le implicazioni è quello indicato. Per l'implicazione da ii. a iii. è utile l'esercizio sotto]. Un gruppo finito con una qualsiasi delle proprietà sopra si dice _nilpotente_. Notate che tutti i gruppi abeliani e tutti i $p$-gruppi sono nilpotenti; in particolare, i $p$-gruppi hanno le proprietà (i) e (ii) sopra!
 - Sia $G$ un gruppo finito. 
   - Sia $G\curvearrowright X$ un'azione _transitiva_, e supponiamo che la sua restrizione a un sottogruppo $H < G$ sia ancora transitiva. Mostrate che allora $G=H\cdot\text{stab}_G(x)$ per un qualsiasi $x\in X$.
   - (Argomento di Frattini) Se $N < G$ è un sottogruppo normale di $G$, e $P$ è un $p$-Sylow di $N$, mostrate che $G=N\cdot\mathbf{N}_G(P)$. 
-  
+- Sia $G$ un gruppo di ordine $n$, e sia $\varphi:G\to S_n$ l'immersione di Cayley.
+  - ($\star$) Dimostrate che $\mathbf{N}_{S_n}(\varphi(G))\simeq G\rtimes \text{Aut}(G)$, con l'azione naturale di $\text{Aut}(G)$ su $G$.
+  - Ritrovate (o deducete) il fatto seguente: se $\sigma\in S_n$ è un $n$-ciclo, $\mathbf{N}_{S_n}(\langle\sigma\rangle)\simeq \mathbb{Z}/n\rtimes(\mathbb{Z}/n)^*$.
 
 ## Esercizi passati
 
