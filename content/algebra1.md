@@ -19,16 +19,16 @@ incontro. In questo modo,
 **Esercizi:**
 - dal libro, es. 57, 89, 122, 124.
 - Sia $G$ un gruppo finito tale che tutti i suoi sottogruppi massimali sono coniugati.
-  - Provate che $G$ è un $p$-gruppo.
-  - Concludete che $G$ è ciclico di ordine $p^n$ per certi $p$ ed $n$.
+  - Provate che $G$ è un $p$-gruppo per qualche primo $p$.
+  - Concludete che $G$ è ciclico di ordine $p^n$.
 - Sia $G$ un gruppo di ordine $p^3q$, per certi primi $p,q$. Supponiamo che $n_p(G), n_q(G)>1$.  
   - Mostrate che dev'essere $|G|=24$.
   - ($\star$) Concludete che $G\simeq S_4$.
-- Sia $G$ un gruppo, e sia $\phi:G\to \text{Aut}(G)$ la mappa che manda $g\in G$ nel coniugio per $g$. Mostrate che $G\rtimes_\phi G\simeq G\times G$.
-- Sia $G$ un gruppo di ordine $n$, e sia $\phi:G\to S_n$ l'immersione di Cayley.
-  - Dimostrate che $\mathbf{N}_{S_n}(\phi(G))\simeq G\rtimes \text{Aut}(G)$, con l'azione naturale di $\text{Aut}(G)$ su $G$.
+- Sia $G$ un gruppo, e sia $\varphi:G\to \text{Aut}(G)$ la mappa che manda $g\in G$ nel coniugio per $g$. Mostrate che $G\rtimes_\varphi G\simeq G\times G$.
+- Sia $G$ un gruppo di ordine $n$, e sia $\varphi:G\to S_n$ l'immersione di Cayley.
+  - Dimostrate che $\mathbf{N}_{S_n}(\varphi(G))\simeq G\rtimes \text{Aut}(G)$, con l'azione naturale di $\text{Aut}(G)$ su $G$.
   - Ritrovate (o deducete) il fatto seguente: se $\sigma\in S_n$ è un $n$-ciclo, $\mathbf{N}_{S_n}(\langle\sigma\rangle)\simeq \mathbb{Z}/n\rtimes(\mathbb{Z}/n)^*$.
-- Sia $G=N\rtimes_\phi H$ un prodotto semidiretto, e supponiamo $Z(N)=1$ e $\text{im}\phi\subset\text{Inn}(N)<\text{Aut}(N). Mostrate che $G\simeq N\times \mathbf{C}_G(N)$.     
+- Sia $G=N\rtimes_\varphi H$ un prodotto semidiretto, e supponiamo $Z(N)=1$ e $\text{im}\varphi\subset\text{Inn}(N)<\text{Aut}(N). Mostrate che $G\simeq N\times \mathbf{C}_G(N)$.     
 - Sia $G$ un gruppo finito. Mostrate che le seguenti condizioni sono equivalenti:
   1) i normalizzatori dei sottogruppi di $G$ crescono, cioè: se $H\lneq G$, vale $N_G(H)\supsetneq H$;
   2) i sottogruppi massimali di $G$ sono normali; 
