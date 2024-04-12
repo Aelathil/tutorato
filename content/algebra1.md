@@ -30,11 +30,11 @@ incontro. In questo modo,
   - Ritrovate (o deducete) il fatto seguente: se $\sigma\in S_n$ è un $n$-ciclo, $\mathbf{N}_{S_n}(\langle\sigma\rangle)\simeq \mathbb{Z}/n\rtimes(\mathbb{Z}/n)^*$.
 - Sia $G=N\rtimes_\phi H$ un prodotto semidiretto, e supponiamo $Z(N)=1$ e $\text{im}\phi\subset\text{Inn}(N)<\text{Aut}(N). Mostrate che $G\simeq N\times \mathbf{C}_G(N)$.     
 - Sia $G$ un gruppo finito. Mostrate che le seguenti condizioni sono equivalenti:
-  1. i normalizzatori dei sottogruppi di $G$ crescono, cioè: se $H\lneq G$, vale $N_G(H)\supsetneq H$;
-  2. i sottogruppi massimali di $G$ sono normali; 
-  3. i $p$-Sylow di $G$ sono normali; 
-  4. $G$ è prodotto diretto dei suoi $p$-Sylow;
-  5. ogni quoziente non banale di $G$ ha centro non banale.
+  1) i normalizzatori dei sottogruppi di $G$ crescono, cioè: se $H\lneq G$, vale $N_G(H)\supsetneq H$;
+  2) i sottogruppi massimali di $G$ sono normali; 
+  3) i $p$-Sylow di $G$ sono normali; 
+  4) $G$ è prodotto diretto dei suoi $p$-Sylow;
+  5) ogni quoziente non banale di $G$ ha centro non banale.
 [Hint: l'ordine in cui mostrare le implicazioni è quello indicato. Per l'implicazione da 2. a 3. è utile l'esercizio sopra]. Un gruppo finito con una qualsiasi delle proprietà sopra si dice _nilpotente_. Notate che tutti i gruppi abeliani e tutti i $p$-gruppi sono nilpotenti; in particolare, i $p$-gruppi hanno le proprietà (i) e (ii) sopra!
 - Sia $G$ un gruppo finito. 
   - Sia $G\curvearrowright X$ un'azione _transitiva_, e supponiamo che la sua restrizione a un sottogruppo $H < G$ sia ancora transitiva. Mostrate che allora $G=H\cdot\text{stab}_G(x)$ per un qualsiasi $x\in X$.
