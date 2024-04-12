@@ -47,7 +47,7 @@ _Hint: l'ordine in cui mostrare le implicazioni è quello indicato. Per l'implic
 - dal libro, es. 10, 12, 16, 17, 19;
 - mostrate che $\mathbb{Z}/d$, per $d$ dispari, non è isomorfo al gruppo di automorfismi $\text{Aut}(G)$ di alcun gruppo finito $G$;
 - sia $G$ un gruppo che agisce *transitivamente* su un insieme $X$ (i.e., c'è una sola orbita), e sia $N$ un sottogruppo normale di $G$. Dimostrate che
-  - se $x,y\in X$, $\text{stab}(x)$ e $\text{stab}(y)$ sono coniugati;
+  - se $x,y\in X$, $\text{stab}_G(x)$ e $\text{stab}_G(y)$ sono coniugati;
   - l'azione di $N$ su $X$ non è necessariamente transitiva;
   - le orbite dell'azione di $N$ su $X$ hanno tutte la stessa cardinalità. 
 
