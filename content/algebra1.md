@@ -29,7 +29,7 @@ incontro. In questo modo,
   - Sia $G\curvearrowright X$ un'azione _transitiva_, e supponiamo che la sua restrizione a un sottogruppo $H < G$ sia ancora transitiva. Mostrate che allora $G=H\cdot\text{stab}_G(x)$ per un qualsiasi $x\in X$.
   - (Argomento di Frattini) Se $N < G$ è un sottogruppo normale di $G$, e $P$ è un $p$-Sylow di $N$, mostrate che $G=\mathbf{N}_G(P)\cdot N$.
 - Sia $G$ un gruppo finito. Mostrate che le seguenti condizioni sono equivalenti. _Hint: l'ordine in cui mostrare le implicazioni è quello indicato. Per l'implicazione da 2. a 3. è utile l'esercizio precedente_.
-  1) i normalizzatori dei sottogruppi di $G$ crescono, cioè: se $H\lneq G$, vale $N_G(H)\supsetneq H$;
+  1) i normalizzatori dei sottogruppi di $G$ crescono, cioè: se $H\lneq G$, vale $\mathbf{N}_G(H)\supsetneq H$;
   2) i sottogruppi massimali di $G$ sono normali; 
   3) i $p$-Sylow di $G$ sono normali; 
   4) $G$ è prodotto diretto dei suoi $p$-Sylow;
