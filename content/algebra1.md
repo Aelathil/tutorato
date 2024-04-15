@@ -13,6 +13,7 @@ incontro. In questo modo,
 ## Prossimo incontro
 
 **Data e Aula:** Visto l'esito del sondaggio, il tutorato della possima settimana sarà **giovedì 18 aprile** in orario **14-16** in **Aula G**. 
+
 **Teoria:** Rivedere le lezioni 13-16, concludendo il ripasso sui Gruppi.  
 
 **Esercizi, da consegnare entro mercoledì 17 aprile:**
