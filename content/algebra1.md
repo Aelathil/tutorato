@@ -12,11 +12,10 @@ incontro. In questo modo,
 
 ## Prossimo incontro
 
-**Data e Aula:** Per scegliere la data del tutorato della prossima settimana (che sarà necessariamente entro giovedì), vi chiederei di indicare le vostre disponibilità qui: https://www.when2meet.com/?24595302-cGFjf. 
-
+**Data e Aula:** Visto l'esito del sondaggio, il tutorato della possima settimana sarà **giovedì 18 aprile** in orario **14-16** in **Aula G**. 
 **Teoria:** Rivedere le lezioni 13-16, concludendo il ripasso sui Gruppi.  
 
-**Esercizi:**
+**Esercizi, da consegnare entro mercoledì 17 aprile:**
 - dal libro, es. 122, 124, 128.
 - Sia $G$ un gruppo finito tale che tutti i suoi sottogruppi massimali sono coniugati.
   - Provate che $G$ è un $p$-gruppo per qualche primo $p$.
