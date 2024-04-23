@@ -12,32 +12,13 @@ incontro. In questo modo,
 
 ## Prossimo incontro
 
-**Data e Aula:** Visto l'esito del sondaggio, il tutorato della possima settimana sarà **giovedì 18 aprile** in orario **14-16** in **Aula G**. 
+**Data e Aula:** 
 
-**Teoria:** Rivedere le lezioni 13-16, concludendo il ripasso sui Gruppi.  
+- La simulazione di compito sulla parte di Teoria dei Gruppi sarà **mercoledì 24 aprile** in orario **16-18** in **Aula N**. Metterò il testo della prova su questa pagina poco prima. Vi ricordo che potete anche svolgerla autonomamente, ma vi chiederei di rispettare comunque i tempi (2 ore) e di non consultare libri e appunti durante lo svolgimento. Potete poi consegnarmi le vostre soluzioni via mail o direttamente venerdì.
 
-**Esercizi, da consegnare entro mercoledì 17 aprile:**
-- dal libro, es. 122, 124, 128.
-- Sia $G$ un gruppo finito tale che tutti i suoi sottogruppi massimali sono coniugati.
-  - Provate che $G$ è un $p$-gruppo per qualche primo $p$.
-  - Concludete che $G$ è ciclico di ordine $p^n$.
-- Sia $G$ un gruppo di ordine $p^3q$, per certi primi $p,q$. Supponiamo che $n_p(G), n_q(G)>1$.  
-  - Mostrate che dev'essere $|G|=24$.
-  - ($\star$) Concludete che $G\simeq S_4$.
-- Sia $G$ un gruppo, e sia $\varphi:G\to \text{Aut}(G)$ la mappa che manda $g\in G$ nel coniugio per $g$. Mostrate che $G\rtimes_\varphi G\simeq G\times G$.
-- Sia $G$ un gruppo finito. 
-  - Sia $G\curvearrowright X$ un'azione _transitiva_, e supponiamo che la sua restrizione a un sottogruppo $H < G$ sia ancora transitiva. Mostrate che allora $G=H\cdot\text{stab}_G(x)$ per un qualsiasi $x\in X$.
-  - (Argomento di Frattini) Se $N < G$ è un sottogruppo normale di $G$, e $P$ è un $p$-Sylow di $N$, mostrate che $G=\mathbf{N}_G(P)\cdot N$.
-- Sia $G$ un gruppo finito. Mostrate che le seguenti condizioni sono equivalenti. _Hint: l'ordine in cui mostrare le implicazioni è quello indicato. Per l'implicazione da 2. a 3. è utile l'esercizio precedente_.
-  1) i normalizzatori dei sottogruppi di $G$ crescono, cioè: se $H\lneq G$, vale $\mathbf{N}_G(H)\supsetneq H$;
-  2) i sottogruppi massimali di $G$ sono normali; 
-  3) i $p$-Sylow di $G$ sono normali; 
-  4) $G$ è prodotto diretto dei suoi $p$-Sylow;
-  5) ogni quoziente non banale di $G$ ha centro non banale.
-- (Una generalizzazione dell'esempio $S_3\rtimes \mathbb{Z}/2$) Sia $G=N\rtimes_\varphi H$ un prodotto semidiretto, e supponiamo che $Z(N)=1$ e $H$ agisca su $N$ per automorfismi _interni_, i.e. $\text{im}(\varphi)\subset\text{Inn}(N)<\text{Aut}(N)$. Mostrate che $G\simeq N\times \mathbf{C}_G(N)$.     
-- Sia $G$ un gruppo di ordine $n$, e sia $\varphi:G\to S_n$ l'immersione di Cayley, i.e. quella indotta dall'azione $G\curvearrowright G$ per moltiplicazione.
-  - ($\star$) Dimostrate che $\mathbf{N}_{S_n}(\varphi(G))\simeq G\rtimes \text{Aut}(G)$, con l'azione naturale di $\text{Aut}(G)$ su $G$.
-  - Ritrovate (o deducete) il fatto seguente: se $\sigma\in S_n$ è un $n$-ciclo, $\mathbf{N}_{S_n}(\langle\sigma\rangle)\simeq \mathbb{Z}/n\rtimes(\mathbb{Z}/n)^*$.
+- Il tutorato di questa settimana sarà **venerdì 26 aprile** in orario **14-16** in **Aula N1**. 
+
+**Teoria:** Rivedere le lezioni 17-22. 
 
 ## Esercizi passati
 
@@ -63,4 +44,26 @@ incontro. In questo modo,
   - Supponiamo che $H$ sia un $p$-sottogruppo di $G$, cioè $|H|=p^k$ per qualche $k$ e un fissato primo $p$. Se $[G:H]$ è divisibile per $p$, mostrate che anche $[\mathbf{N}_G(H):H]$ è divisibile per $p$.
 - (Dopo aver rivisto la teoria!) Usate l'esercizio precedente e il teorema di Cauchy (ma non i teoremi di Sylow!) per dimostrare che, se $G$ è un gruppo finito e $p$ è un primo che divide $|G|$, il gruppo $G$ ha un $p$-Sylow.  
 
+**Tutorati 3-4:**
+- dal libro, es. 122, 124, 128.
+- Sia $G$ un gruppo finito tale che tutti i suoi sottogruppi massimali sono coniugati.
+  - Provate che $G$ è un $p$-gruppo per qualche primo $p$.
+  - Concludete che $G$ è ciclico di ordine $p^n$.
+- Sia $G$ un gruppo di ordine $p^3q$, per certi primi $p,q$. Supponiamo che $n_p(G), n_q(G)>1$.  
+  - Mostrate che dev'essere $|G|=24$.
+  - ($\star$) Concludete che $G\simeq S_4$.
+- Sia $G$ un gruppo, e sia $\varphi:G\to \text{Aut}(G)$ la mappa che manda $g\in G$ nel coniugio per $g$. Mostrate che $G\rtimes_\varphi G\simeq G\times G$.
+- Sia $G$ un gruppo finito. 
+  - Sia $G\curvearrowright X$ un'azione _transitiva_, e supponiamo che la sua restrizione a un sottogruppo $H < G$ sia ancora transitiva. Mostrate che allora $G=H\cdot\text{stab}_G(x)$ per un qualsiasi $x\in X$.
+  - (Argomento di Frattini) Se $N < G$ è un sottogruppo normale di $G$, e $P$ è un $p$-Sylow di $N$, mostrate che $G=\mathbf{N}_G(P)\cdot N$.
+- Sia $G$ un gruppo finito. Mostrate che le seguenti condizioni sono equivalenti. _Hint: l'ordine in cui mostrare le implicazioni è quello indicato. Per l'implicazione da 2. a 3. è utile l'esercizio precedente_.
+  1) i normalizzatori dei sottogruppi di $G$ crescono, cioè: se $H\lneq G$, vale $\mathbf{N}_G(H)\supsetneq H$;
+  2) i sottogruppi massimali di $G$ sono normali; 
+  3) i $p$-Sylow di $G$ sono normali; 
+  4) $G$ è prodotto diretto dei suoi $p$-Sylow;
+  5) ogni quoziente non banale di $G$ ha centro non banale.
+- (Una generalizzazione dell'esempio $S_3\rtimes \mathbb{Z}/2$) Sia $G=N\rtimes_\varphi H$ un prodotto semidiretto, e supponiamo che $Z(N)=1$ e $H$ agisca su $N$ per automorfismi _interni_, i.e. $\text{im}(\varphi)\subset\text{Inn}(N)<\text{Aut}(N)$. Mostrate che $G\simeq N\times \mathbf{C}_G(N)$.     
+- Sia $G$ un gruppo di ordine $n$, e sia $\varphi:G\to S_n$ l'immersione di Cayley, i.e. quella indotta dall'azione $G\curvearrowright G$ per moltiplicazione.
+  - ($\star$) Dimostrate che $\mathbf{N}_{S_n}(\varphi(G))\simeq G\rtimes \text{Aut}(G)$, con l'azione naturale di $\text{Aut}(G)$ su $G$.
+  - Ritrovate (o deducete) il fatto seguente: se $\sigma\in S_n$ è un $n$-ciclo, $\mathbf{N}_{S_n}(\langle\sigma\rangle)\simeq \mathbb{Z}/n\rtimes(\mathbb{Z}/n)^*$.
 
