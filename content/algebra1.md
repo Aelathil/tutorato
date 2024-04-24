@@ -14,7 +14,9 @@ incontro. In questo modo,
 
 **Data e Aula:** 
 
-- La simulazione di compito sulla parte di Teoria dei Gruppi sarà **mercoledì 24 aprile** in orario **16-18** in **Aula N**. Metterò il testo della prova su questa pagina poco prima. Vi ricordo che potete anche svolgerla autonomamente, ma vi chiederei di rispettare comunque i tempi (2 ore) e di non consultare libri e appunti durante lo svolgimento. Potete poi consegnarmi le vostre soluzioni via mail o direttamente venerdì.
+- La simulazione di compito sulla parte di Teoria dei Gruppi sarà **mercoledì 24 aprile** in orario **16-18** in **Aula N**. Vi ricordo che potete anche svolgerla autonomamente, ma vi chiederei di rispettare comunque i tempi (2 ore) e di non consultare libri e appunti durante lo svolgimento. Potete poi consegnarmi le vostre soluzioni via mail o direttamente venerdì.
+
+**Testo della prova:** [Simulazione 24 aprile (Gruppi)](/Compitino.pdf).
 
 - Il tutorato di questa settimana sarà **venerdì 26 aprile** in orario **14-16** in **Aula N1**. 
 
