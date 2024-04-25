@@ -12,13 +12,7 @@ incontro. In questo modo,
 
 ## Prossimo incontro
 
-**Data e Aula:** 
-
-- La simulazione di compito sulla parte di Teoria dei Gruppi sarà **mercoledì 24 aprile** in orario **16-18** in **Aula N**. Vi ricordo che potete anche svolgerla autonomamente, ma vi chiederei di rispettare comunque i tempi (2 ore) e di non consultare libri e appunti durante lo svolgimento. Potete poi consegnarmi le vostre soluzioni via mail o direttamente venerdì.
-
-**Testo della prova:** [Simulazione 24 aprile (Gruppi)](/Compitino1.pdf).
-
-- Il tutorato di questa settimana sarà **venerdì 26 aprile** in orario **14-16** in **Aula N1**. 
+**Data e Aula:** ~~Il tutorato di questa settimana sarà **venerdì 26 aprile** in orario **14-16** in **Aula N1**.~~ Per via di un contrattempo indipendente da me, non riesco a essere a Pisa il 26, per cui l'incontro di tutorato di venerdì 26 è cancellato. Mi scuso per il disagio. Riprenderemo la prossima settimana, possibilmente con due incontri, in modo da recuperare quello perso.
 
 **Teoria:** Rivedere le lezioni 17-22. 
 
@@ -68,4 +62,8 @@ incontro. In questo modo,
 - Sia $G$ un gruppo di ordine $n$, e sia $\varphi:G\to S_n$ l'immersione di Cayley, i.e. quella indotta dall'azione $G\curvearrowright G$ per moltiplicazione.
   - ($\star$) Dimostrate che $\mathbf{N}_{S_n}(\varphi(G))\simeq G\rtimes \text{Aut}(G)$, con l'azione naturale di $\text{Aut}(G)$ su $G$.
   - Ritrovate (o deducete) il fatto seguente: se $\sigma\in S_n$ è un $n$-ciclo, $\mathbf{N}_{S_n}(\langle\sigma\rangle)\simeq \mathbb{Z}/n\rtimes(\mathbb{Z}/n)^*$.
+
+## Simulazioni d'Esame
+
+- [Simulazione 24 aprile (Gruppi)](/Compitino1.pdf).
 
