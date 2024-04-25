@@ -12,7 +12,7 @@ incontro. In questo modo,
 
 ## Prossimo incontro
 
-**Data e Aula:** ~~Il tutorato di questa settimana sarà **venerdì 26 aprile** in orario **14-16** in **Aula N1**.~~ Per via di un contrattempo indipendente da me, non riesco a essere a Pisa il 26, per cui l'incontro di tutorato di venerdì 26 è cancellato. Mi scuso per il disagio. Riprenderemo la prossima settimana, possibilmente con due incontri, in modo da recuperare quello perso.
+**Data e Aula:** ~~Il tutorato di questa settimana sarà **venerdì 26 aprile** in orario **14-16** in **Aula N1**.~~ Per via di un contrattempo indipendente da me, non riesco a essere a Pisa il 26, per cui **l'incontro di tutorato di venerdì 26 è cancellato**. Mi scuso per il disagio. Riprenderemo la prossima settimana, possibilmente con due incontri, in modo da recuperare quello perso.
 
 **Teoria:** Rivedere le lezioni 17-22. 
 
