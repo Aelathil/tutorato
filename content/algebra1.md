@@ -13,6 +13,7 @@ incontro. In questo modo,
 ## Prossimo incontro
 
 **Data e Aula:** I tutorati di questa settimana saranno **martedì 16-18**  e **venerdì 14-16**. Scriverò le aule al più presto.
+
 **Teoria:** Rivedere le lezioni 17-22. 
 
 ## Esercizi passati
