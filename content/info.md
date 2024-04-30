@@ -17,8 +17,8 @@ Venire a tutorato è utilissimo per darvi un'idea più chiara del vostro livello
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |9-11|  |   |   |  |  |
 |11-13|	 |   |   |  | |
-|14-16|	 | Analisi I<br> Aula P1 | | Alla pari<br> Aula 2 | Algebra I <br> Aula P1 |
-|16-18|	Geometria I<br> (ogni 2 settimane)  | Alla pari<br> Aula 2 <br> Algebra I <br> Aula G | Alla pari<br> Aula 2  | Fisica I<br> Aula N1 |  |
+|14-16|	 | Analisi I<br> Aula P1 | | Alla pari<br> Aula 2 <br> Fisica 1<br> Aula N1 | Algebra I <br> Aula P1 |
+|16-18|	Geometria I<br> (ogni 2 settimane)  | Alla pari<br> Aula 2 <br> Algebra I <br> Aula G | Alla pari<br> Aula 2  | |  |
 |17-19|  |   |   |  |  |
 |18-20|  |   |   |  |  | 
 
