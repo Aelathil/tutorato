@@ -24,7 +24,7 @@ incontro. In questo modo,
 - Siano $A$ un anello e $x$ un'indeterminata.
   - Caratterizzate gli elementi nilpotenti di $A[ x ]$.
   - Caratterizzate gli elementi invertibili di $A[ x ]$.
-
+- Esibite un anello commutativo $A$ (necessariamente senza $1$!) privo di ideali massimali.
 
 ## Esercizi passati
 
