@@ -12,9 +12,19 @@ incontro. In questo modo,
 
 ## Prossimo incontro
 
-**Data e Aula:** I tutorati di questa settimana saranno **martedì 16-18 in Aula G**  e **venerdì 14-16 in Aula P1**.
+**Data e Aula:** Il prossimo tutorato sarà **venerdì 14-16 in Aula P1**.
 
-**Teoria:** Rivedere le lezioni 17-22. 
+**Esercizi, da consegnare entro giovedì 2 maggio:**
+- Dal libro, es. 155, 164, 168, 181.
+- Sia $A=\mathbb[Q][x,y]$, e siano $\mathfrak{p}=(x^2+y)$, $\mathfrak{q}=(x^4+y)$. Mostrate che
+  - $\mathfrak{p}$ e $\mathfrak{q}$ sono primi di $A$,
+  - $\mathfrak{p}+\mathfrak{q}$ è un ideale proprio di $A$ che non è primo.
+- Sia $n>0$ un numero naturale. Dite per quali valori di $n$ l'anello $\mathbb[Z]/n$ è *ridotto*, cioè non ha elementi nilpotenti. 
+- Supponiamo che un anello $A$ abbia infiniti ideali massimali. Mostrate che, se $\mathfrak{m}_1,\dots,\mathfrak{m}_k$ sono ideali massimali di $A$, con $k\in\mathbb{N}$, vale $\mathfrak{m}_1\cap\cdots\cap\mathfrak{m}_k\neq (0)$.
+- Siano $A$ un anello e $X$ un'indeterminata.
+  - Caratterizzate gli elementi nilpotenti di $A[X]$.
+  - Caratterizzate gli elementi invertibili di $A[X]$.
+
 
 ## Esercizi passati
 
