@@ -17,7 +17,7 @@ incontro. In questo modo,
 **Esercizi, da consegnare entro giovedì 2 maggio:**
 - Dal libro, es. 155, 164, 168, 181.
 - Sia $A=\mathbb{Q}[x,y]$, e siano $\mathfrak{p}=(x^2+y)$, $\mathfrak{q}=(x^4+y)$. Mostrate che
-  - $\mathfrak{p}$ e $\mathfrak{q}$ sono primi di $A$,
+  - $\mathfrak{p}$ e $\mathfrak{q}$ sono ideali primi di $A$,
   - $\mathfrak{p}+\mathfrak{q}$ è un ideale proprio di $A$ che non è primo.
 - Sia $n>0$ un numero naturale. Dite per quali valori di $n$ l'anello $\mathbb[Z]/n$ è *ridotto*, cioè non ha elementi nilpotenti. 
 - Supponiamo che un anello $A$ abbia infiniti ideali massimali. Mostrate che, se $\mathfrak{m}_1,\dots,\mathfrak{m}_k$ sono ideali massimali di $A$, con $k\in\mathbb{N}$, vale $\mathfrak{m}_1\cap\cdots\cap\mathfrak{m}_k\neq (0)$.
