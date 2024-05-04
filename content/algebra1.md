@@ -12,19 +12,7 @@ incontro. In questo modo,
 
 ## Prossimo incontro
 
-**Data e Aula:** Il prossimo tutorato sarà **venerdì 14-16 in Aula P1**.
-
-**Esercizi, da consegnare entro giovedì 2 maggio:**
-- Dal libro, es. 155, 164, 168, 181.
-- Sia $A=\mathbb{Q}[x,y]$, e siano $\mathfrak{p}=(x^2+y)$, $\mathfrak{q}=(x^4+y)$. Mostrate che
-  - $\mathfrak{p}$ e $\mathfrak{q}$ sono ideali primi di $A$,
-  - $\mathfrak{p}+\mathfrak{q}$ è un ideale proprio di $A$ che non è primo.
-- Sia $n>0$ un numero naturale. Dite per quali valori di $n$ l'anello $\mathbb{Z}/n$ è *ridotto*, cioè non ha elementi nilpotenti. 
-- Supponiamo che un anello $A$ abbia infiniti ideali massimali. Mostrate che, se $\mathfrak{m}_1,\dots,\mathfrak{m}_k$ sono ideali massimali di $A$, con $k\in\mathbb{N}$, vale $\mathfrak{m}_1\cap\cdots\cap\mathfrak{m}_k\neq (0)$.
-- Siano $A$ un anello e $x$ un'indeterminata.
-  - Caratterizzate gli elementi nilpotenti di $A[ x ]$.
-  - Caratterizzate gli elementi invertibili di $A[ x ]$.
-- Esibite un anello commutativo $A$ (necessariamente senza $1$!) privo di ideali massimali.
+**Data e Aula:** Al solito, per programmare un tutorato aggiuntivo oltre a quello di venerdì 14-16, vi chiedo di compilare il form seguente: https://www.when2meet.com/?24893475-tIbOf.
 
 ## Esercizi passati
 
@@ -72,6 +60,19 @@ incontro. In questo modo,
 - Sia $G$ un gruppo di ordine $n$, e sia $\varphi:G\to S_n$ l'immersione di Cayley, i.e. quella indotta dall'azione $G\curvearrowright G$ per moltiplicazione.
   - ($\star$) Dimostrate che $\mathbf{N}_{S_n}(\varphi(G))\simeq G\rtimes \text{Aut}(G)$, con l'azione naturale di $\text{Aut}(G)$ su $G$.
   - Ritrovate (o deducete) il fatto seguente: se $\sigma\in S_n$ è un $n$-ciclo, $\mathbf{N}_{S_n}(\langle\sigma\rangle)\simeq \mathbb{Z}/n\rtimes(\mathbb{Z}/n)^*$.
+ 
+**Tutorati 5-6:**
+
+- Dal libro, es. 155, 164, 168, 181.
+- Sia $A=\mathbb{Q}[x,y]$, e siano $\mathfrak{p}=(x^2+y)$, $\mathfrak{q}=(x^4+y)$. Mostrate che
+  - $\mathfrak{p}$ e $\mathfrak{q}$ sono ideali primi di $A$,
+  - $\mathfrak{p}+\mathfrak{q}$ è un ideale proprio di $A$ che non è primo.
+- Sia $n>0$ un numero naturale. Dite per quali valori di $n$ l'anello $\mathbb{Z}/n$ è *ridotto*, cioè non ha elementi nilpotenti. 
+- Supponiamo che un anello $A$ abbia infiniti ideali massimali. Mostrate che, se $\mathfrak{m}_1,\dots,\mathfrak{m}_k$ sono ideali massimali di $A$, con $k\in\mathbb{N}$, vale $\mathfrak{m}_1\cap\cdots\cap\mathfrak{m}_k\neq (0)$.
+- Siano $A$ un anello e $x$ un'indeterminata.
+  - Caratterizzate gli elementi nilpotenti di $A[ x ]$.
+  - Caratterizzate gli elementi invertibili di $A[ x ]$.
+- Esibite un anello commutativo $A$ (necessariamente senza $1$!) privo di ideali massimali.
 
 ## Simulazioni d'Esame
 
