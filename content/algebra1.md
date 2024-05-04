@@ -76,5 +76,5 @@ incontro. In questo modo,
 
 ## Simulazioni d'Esame
 
-- [Simulazione 24 aprile (Gruppi)](/Compitino1.pdf).
+- Simulazione 24 aprile (Gruppi): [Testo](/Compitino1.pdf), [Soluzioni](/CompitinoSoluzioni.pdf).
 
