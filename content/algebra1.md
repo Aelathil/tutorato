@@ -12,7 +12,8 @@ incontro. In questo modo,
 
 ## Prossimo incontro
 
-**Data e Aula:** Al solito, per programmare un tutorato aggiuntivo oltre a quello di venerdì 14-16, vi chiedo di compilare il form seguente: https://www.when2meet.com/?24893475-tIbOf.
+**Data e Aula:** I tutorati di questa settimana saranno **giovedì 9 maggio, ore 14-16** in **Aula G** e **venerdì 10 maggio, ore 14-16** in **Aula N**.
+
 
 ## Esercizi passati
 
