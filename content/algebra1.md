@@ -20,15 +20,15 @@ incontro. In questo modo,
   1) A è un UFD;
   2) ogni primo $\mathfrak{p}\subset A$ diverso da $(0)$ può essere generato da elementi primi;
   3) ogni primo $\mathfrak{p}\subset A$ diverso da $(0)$ contiene un elemento primo.
-- Sia $A$ un dominio, e sia $S$ una sua parte moltiplicativa. Se $K=\operatorname{frac}(A)$, mostrate che $S^{-1}A=A[S^{-1}], il più piccolo sottoanello di $K$ che contiene $A$ e gli inversi degli elementi di $S$.
+- Sia $A$ un dominio, e sia $S$ una sua parte moltiplicativa. Se $K=\text{frac}(A)$, mostrate che $S^{-1}A=A[S^{-1}], il più piccolo sottoanello di $K$ che contiene $A$ e gli inversi degli elementi di $S$.
 - Sia $A$ un dominio. Se $S\subset A$ è una parte moltiplicativa, definiamo la *saturazione* di $S$ in $A$ come l'insieme $\operatorname{sat}(S)$ degli $a\in A$ tali che $a$ divide $s$ per qualche $s\in S$. Mostrate che sono equivalenti, per $S,T\subset A$ parti moltiplicative:
   1) $S^{-1}A\simeq T^{-1}A$;
-  2) $S^{-1}A=T^{-1}A$ in $\operatorname{frac}(A)$;
-  3) $\operatorname{sat}(S)=\operatorname{sat}(T)$.
+  2) $S^{-1}A=T^{-1}A$ in $\text{frac}(A)$;
+  3) $\text{sat}(S)=\text{sat}(T)$.
 - Trovate tutte le localizzazioni di $\mathbb{Z}$ a meno di isomorfismo, e di ognuna di esse caratterizzate gli ideali primi.
 - Sia $A$ un PID. Se $\mathfrak{p}\subset A$ è un primo, contate gli ideali primi di $A_\mathfrak{p}$.
 - Sia $A$ un dominio euclideo.
-  1) Mostrate che è sempre possibile trovare un grado $d:A\setminus\{0\}\to\mathbb{N}$ su $A$ tale che $\operatorname{min}\{d(a)\mid a\in A\}=0$.
+  1) Mostrate che è sempre possibile trovare un grado $d:A\setminus\{0\}\to\mathbb{N}$ su $A$ tale che $\text{min}\{d(a)\mid a\in A\}=0$.
   2) Se $d$ è come in (1), mostrate che dev'essere $d(u)=0$ per ogni $u\in A^\times$. 
   3) Se $S\subset A$ è una parte moltiplicativa, dimostrate che $S^{-1}A$ è un dominio euclideo.  
 - Sia $A$ un anello.
