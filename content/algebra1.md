@@ -28,7 +28,7 @@ incontro. In questo modo,
 - Trovate tutte le localizzazioni di $\mathbb{Z}$ a meno di isomorfismo, e di ognuna di esse caratterizzate gli ideali primi.
 - Sia $A$ un PID. Se $\mathfrak{p}\subset A$ è un primo, contate gli ideali primi di $A_\mathfrak{p}$.
 - Sia $A$ un dominio euclideo.
-  1) Mostrate che è sempre possibile trovare un grado $d:A\setminus\{0\}\to\mathbb{N}$ su $A$ tale che $\text{min}\{d(a)\mid a\in A\}=0$.
+  1) Mostrate che è sempre possibile trovare un grado $d:A\setminus\{0\}\to\mathbb{N}$ su $A$ tale che $\text{min}\lbrace d(a)\mid a\in A\rbrace=0$.
   2) Se $d$ è come in (1), mostrate che dev'essere $d(u)=0$ per ogni $u\in A^\times$. 
   3) Se $S\subset A$ è una parte moltiplicativa, dimostrate che $S^{-1}A$ è un dominio euclideo.  
 - Sia $A$ un anello.
