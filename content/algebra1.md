@@ -23,9 +23,9 @@ incontro. In questo modo,
 - Sia $A$ un dominio, e sia $S$ una sua parte moltiplicativa. Se $K=\text{frac}(A)$, mostrate che $S^{-1}A=A[S^{-1}]$, il più piccolo sottoanello di $K$ che contiene $A$ e gli inversi degli elementi di $S$.
 - Sia $A$ un dominio. Se $S\subset A$ è una parte moltiplicativa, definiamo la *saturazione* di $S$ in $A$ come l'insieme $\text{sat}(S)$ degli $a\in A$ tali che $a$ divide $s$ per qualche $s\in S$. Mostrate che $\text{sat}(S)$ è ancora una parte moltiplicativa di $A$, e che $\text{sat}(\text{sat}(S))=\text{sat}(S)$.
 - Sia $A$ un dominio. Mostrate che sono equivalenti, per $S,T\subset A$ parti moltiplicative:
-  2) $S^{-1}A\simeq T^{-1}A$;
-  3) $S^{-1}A=T^{-1}A$ in $\text{frac}(A)$;
-  4) $\text{sat}(S)=\text{sat}(T)$.
+  1) $S^{-1}A\simeq T^{-1}A$;
+  2) $S^{-1}A=T^{-1}A$ in $\text{frac}(A)$;
+  3) $\text{sat}(S)=\text{sat}(T)$.
 - Trovate tutte le localizzazioni di $\mathbb{Z}$ a meno di isomorfismo, e di ognuna di esse caratterizzate gli ideali primi.
 - Sia $A$ un PID. Se $\mathfrak{p}\subset A$ è un primo, contate gli ideali primi di $A_\mathfrak{p}$.
 - Sia $A$ un dominio euclideo.
