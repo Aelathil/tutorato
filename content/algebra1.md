@@ -12,9 +12,11 @@ incontro. In questo modo,
 
 ## Prossimo incontro
 
-**Data e Aula:** I tutorati di questa settimana saranno **giovedì 9 maggio, ore 14-16** in **Aula G** e **venerdì 10 maggio, ore 14-16** in **Aula N**.
+**Data e Aula:** Il tutorato di questa settimana sarà e **venerdì 17 maggio** in **Aula N**.
 
-**Esercizi:**
+**Teoria:** rivedere le lezioni 26-31.
+
+**Esercizi, da consegnare entro giovedì 16 maggio:**
 - dal libro, es. 157, 171, 176, 197;
 - Sia $A$ un dominio. Mostrate che sono equivalenti le seguenti condizioni. *Leggero Hint per 3. implica 1.: localizzate.* 
   1) A è un UFD;
