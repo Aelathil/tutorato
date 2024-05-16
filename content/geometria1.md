@@ -12,4 +12,6 @@
 **Secondo Semestre**
 - Test del [14 marzo 2024](/SoluzioniTest1Geometria1SecondoSem.pdf).
 - Test del [9 aprile 2024](/SoluzioniTest2Geometria1SecondoSem.pdf).
+- Test del [18 aprile 2024](/SoluzioniTest3Geometria1SecondoSem.pdf).
+- Test del [9 maggio 2024](/SoluzioniTest4Geometria1SecondoSem.pdf).
 
