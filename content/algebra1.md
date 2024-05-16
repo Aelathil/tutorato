@@ -12,7 +12,7 @@ incontro. In questo modo,
 
 ## Prossimo incontro
 
-**Data e Aula:** Il tutorato di questa settimana sarà e **venerdì 17 maggio** in **Aula N**.
+**Data e Aula:** Il tutorato di questa settimana sarà **venerdì 17 maggio 14-16** in **Aula N**.
 
 **Teoria:** rivedere le lezioni 26-31.
 
