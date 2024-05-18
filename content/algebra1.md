@@ -12,32 +12,9 @@ incontro. In questo modo,
 
 ## Prossimo incontro
 
-**Data e Aula:** Il tutorato di questa settimana sarà **venerdì 17 maggio 14-16** in **Aula N**.
+**Data e Aula:** La prossima settimana ci saranno, sperabilmente, due tutorati, di cui uno **venerdì 24 maggio 14-16**. Per decidere la data dell'altro, vi chiedo di compilare questo form: https://www.when2meet.com/?25058300-JWukm.
 
-**Teoria:** rivedere le lezioni 26-31.
-
-**Esercizi, da consegnare entro giovedì 16 maggio:**
-- dal libro, es. 157, 171, 176, 197;
-- Sia $A$ un dominio. Mostrate che sono equivalenti le seguenti condizioni. *Leggero Hint per 3. implica 1.: localizzate.* 
-  1) A è un UFD;
-  2) ogni primo $\mathfrak{p}\subset A$ diverso da $(0)$ può essere generato da elementi primi;
-  3) ogni primo $\mathfrak{p}\subset A$ diverso da $(0)$ contiene un elemento primo.
-- Sia $A$ un dominio, e sia $S$ una sua parte moltiplicativa. Se $K=\text{frac}(A)$, mostrate che $S^{-1}A=A[S^{-1}]$, il più piccolo sottoanello di $K$ che contiene $A$ e gli inversi degli elementi di $S$.
-- Sia $A$ un dominio. Se $S\subset A$ è una parte moltiplicativa, definiamo la *saturazione* di $S$ in $A$ come l'insieme $\text{sat}(S)$ degli $a\in A$ tali che $a$ divide $s$ per qualche $s\in S$. Mostrate che $\text{sat}(S)$ è ancora una parte moltiplicativa di $A$, e che $\text{sat}(\text{sat}(S))=\text{sat}(S)$.
-- Sia $A$ un dominio. Mostrate che sono equivalenti, per $S,T\subset A$ parti moltiplicative:
-  1) $S^{-1}A\simeq T^{-1}A$;
-  2) $S^{-1}A=T^{-1}A$ in $\text{frac}(A)$;
-  3) $\text{sat}(S)=\text{sat}(T)$.
-- Trovate tutte le localizzazioni di $\mathbb{Z}$ a meno di isomorfismo, e di ognuna di esse caratterizzate gli ideali primi.
-- Sia $A$ un PID. Se $\mathfrak{p}\subset A$ è un primo, contate gli ideali primi di $A_\mathfrak{p}$.
-- Sia $A$ un dominio euclideo.
-  1) Mostrate che è sempre possibile trovare un grado $d:A\setminus\lbrace 0\rbrace\to\mathbb{N}$ su $A$ tale che $\text{min}\lbrace d(a)\mid a\in A\rbrace=0$.
-  2) Se $d$ è come in 1., mostrate che dev'essere $d(u)=0$ per ogni $u\in A^\times$. 
-  3) Se $S\subset A$ è una parte moltiplicativa, dimostrate che $S^{-1}A$ è un dominio euclideo.  
-- Sia $A$ un anello.
-  1) Mostrate che, se $I\subset A$ è un ideale, vale $I\subset (I:a)(I,a)$ per ogni $a\in A$; esibite un caso in cui non vale l'uguaglianza.
-  2) Mostrate che, se $A$ è un dominio i cui ideali *primi* sono principali, allora $A$ è un PID.
-
+**Teoria:** rivedere le lezioni 26-33.
 
 ## Esercizi passati
 
@@ -98,6 +75,29 @@ incontro. In questo modo,
   - Caratterizzate gli elementi nilpotenti di $A[ x ]$.
   - Caratterizzate gli elementi invertibili di $A[ x ]$.
 - Esibite un anello commutativo $A$ (necessariamente senza $1$!) privo di ideali massimali.
+
+**Tutorato 8:**
+
+- dal libro, es. 157, 171, 176, 197;
+- Sia $A$ un dominio. Mostrate che sono equivalenti le seguenti condizioni. *Leggero Hint per 3. implica 1.: localizzate.* 
+  1) A è un UFD;
+  2) ogni primo $\mathfrak{p}\subset A$ diverso da $(0)$ può essere generato da elementi primi;
+  3) ogni primo $\mathfrak{p}\subset A$ diverso da $(0)$ contiene un elemento primo.
+- Sia $A$ un dominio, e sia $S$ una sua parte moltiplicativa. Se $K=\text{frac}(A)$, mostrate che $S^{-1}A=A[S^{-1}]$, il più piccolo sottoanello di $K$ che contiene $A$ e gli inversi degli elementi di $S$.
+- Sia $A$ un dominio. Se $S\subset A$ è una parte moltiplicativa, definiamo la *saturazione* di $S$ in $A$ come l'insieme $\text{sat}(S)$ degli $a\in A$ tali che $a$ divide $s$ per qualche $s\in S$. Mostrate che $\text{sat}(S)$ è ancora una parte moltiplicativa di $A$, e che $\text{sat}(\text{sat}(S))=\text{sat}(S)$.
+- Sia $A$ un dominio. Mostrate che sono equivalenti, per $S,T\subset A$ parti moltiplicative:
+  1) $S^{-1}A\simeq T^{-1}A$;
+  2) $S^{-1}A=T^{-1}A$ in $\text{frac}(A)$;
+  3) $\text{sat}(S)=\text{sat}(T)$.
+- Trovate tutte le localizzazioni di $\mathbb{Z}$ a meno di isomorfismo, e di ognuna di esse caratterizzate gli ideali primi.
+- Sia $A$ un PID. Se $\mathfrak{p}\subset A$ è un primo, contate gli ideali primi di $A_\mathfrak{p}$.
+- Sia $A$ un dominio euclideo.
+  1) Mostrate che è sempre possibile trovare un grado $d:A\setminus\lbrace 0\rbrace\to\mathbb{N}$ su $A$ tale che $\text{min}\lbrace d(a)\mid a\in A\rbrace=0$.
+  2) Se $d$ è come in 1., mostrate che dev'essere $d(u)=0$ per ogni $u\in A^\times$. 
+  3) Se $S\subset A$ è una parte moltiplicativa, dimostrate che $S^{-1}A$ è un dominio euclideo.  
+- Sia $A$ un anello.
+  1) Mostrate che, se $I\subset A$ è un ideale, vale $I\subset (I:a)(I,a)$ per ogni $a\in A$; esibite un caso in cui non vale l'uguaglianza.
+  2) Mostrate che, se $A$ è un dominio i cui ideali *primi* sono principali, allora $A$ è un PID.
 
 ## Simulazioni d'Esame
 
