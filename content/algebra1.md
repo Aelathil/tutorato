@@ -12,7 +12,7 @@ incontro. In questo modo,
 
 ## Prossimo incontro
 
-**Data e Aula:** La prossima settimana ci saranno, sperabilmente, due tutorati, di cui uno **venerdì 24 maggio 14-16**. Per decidere la data dell'altro, vi chiedo di compilare questo form: https://www.when2meet.com/?25058300-JWukm.
+**Data e Aula:** I tutorati di questa settimana saranno, rispettivamente, **mercoledì 22 maggio 11-13** e **venerdì 24 maggio 14-16**. Metterò a breve degli esercizi per venerdì.
 
 **Teoria:** rivedere le lezioni 26-33.
 
