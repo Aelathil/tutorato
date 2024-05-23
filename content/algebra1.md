@@ -16,6 +16,17 @@ incontro. In questo modo,
 
 **Teoria:** rivedere le lezioni 26-33.
 
+**Esercizi, da consegnare entro giovedì 23 maggio:**
+- dal libro, es. 221, 222, 236, 261;
+- Sia $L\mid K$ un'estensione finita. Mostrate che $L\mid K$ è di Galois se e solo se $L$ è il campo di spezzamento di un polinomio $f\in K[X]$ separabile.
+- Sia $L\mid K\supset\mathbb{Q}$ il campo di spezzamento di un polinomio $f\in K[X]$ irriducibile. Se $G(L\mid K)$ è abeliano, mostrate che $L=K(\alpha)$ per ogni radice $\alpha$ di $f$ in $L$.
+- Sia $L$ il campo di spezzamento di $f(X)=(X^4-2)(X^3-2)$ su $\mathbb{Q}$. Trovate la massima estensione $K$ di $\mathbb{Q}$ contenuta in $L$ e priva di sottoestensioni non normali su $\mathbb{Q}$.    
+- Sia $\alpha=\sqrt{(2+\sqrt{2})(3+\sqrt{3})}.
+  - Dimostrate che $\mathbb{Q}(\alpha^2)=\mathbb{Q}(\sqrt{2},\sqrt{3})$.
+  - Trovate il grado del campo di spezzamento $K$ di $\alpha$ su $\mathbb{Q}$.
+  - Descrivete il gruppo di Galois di $K$ su $\mathbb{Q}$ e le sottoestensioni intermedie di $K\mid \mathbb{Q}$.
+- Descrivete una chiusura algebrica di $\mathbb{F}_p$.
+
 ## Esercizi passati
 
 **Tutorato 1:** 
