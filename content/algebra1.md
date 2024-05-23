@@ -16,8 +16,8 @@ incontro. In questo modo,
 
 **Esercizi, da consegnare entro giovedì 23 maggio:**
 - Dal libro, es. 221, 222, 236, 261.
-- Sia $L\mid K$ un'estensione finita. Mostrate che $L\mid K$ è di Galois se e solo se $L$ è il campo di spezzamento di un polinomio $f\in K[X]$ separabile.
-- Sia $L\mid K$ il campo di spezzamento di un polinomio $f\in K[X]$ irriducibile e separabile. Se $G(L\mid K)$ è abeliano, mostrate che $L=K(\alpha)$ per ogni radice $\alpha$ di $f$ in $L$.
+- Sia $L\mid K$ un'estensione finita. Mostrate che $L\mid K$ è di Galois se e solo se $L$ è il campo di spezzamento di un polinomio $f\in K[ X ]$ separabile.
+- Sia $L\mid K$ il campo di spezzamento di un polinomio $f\in K[ X ]$ irriducibile e separabile. Se $G(L\mid K)$ è abeliano, mostrate che $L=K(\alpha)$ per ogni radice $\alpha$ di $f$ in $L$.
 - Sia $L$ il campo di spezzamento di $f(X)=(X^4-2)(X^3-2)$ su $\mathbb{Q}$.
   - Trovate la massima sottoestensione $K$ di $L$ di Galois su $\mathbb{Q}$ e tale che $G(K\mid \mathbb{Q})$ sia abeliano.
   - Descrivete le sottoestensioni di $K$.
