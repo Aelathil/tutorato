@@ -21,7 +21,7 @@ incontro. In questo modo,
 - Sia $L$ il campo di spezzamento di $f(X)=(X^4-2)(X^3-2)$ su $\mathbb{Q}$.
   - Trovate la massima sottoestensione $K$ di $L$ di Galois su $\mathbb{Q}$ e tale che $G(K\mid \mathbb{Q})$ sia abeliano.
   - Descrivete le sottoestensioni di $K$.
-- Sia $K\mid \mathbb{Q}$ un'estensione di Galois tale che $G(L\mid K)$ sia isomorfo a $Q_8$. Mostrate che $K$ è necessariamente il campo di spezzamento di un polinomio di grado $8$.
+- Sia $L\mid K$ un'estensione di Galois tale che $G(L\mid K)$ sia isomorfo a $Q_8$. Mostrate che $L$ è necessariamente il campo di spezzamento su $K$ di un polinomio di grado $8$.
 - Sia $\alpha=\sqrt{(2+\sqrt{2})(3+\sqrt{3})}$.
   - Dimostrate che $\mathbb{Q}(\alpha^2)=\mathbb{Q}(\sqrt{2},\sqrt{3})$.
   - Trovate il grado del campo di spezzamento $K$ di $\alpha$ su $\mathbb{Q}$.
