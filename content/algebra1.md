@@ -12,7 +12,7 @@ incontro. In questo modo,
 
 ## Prossimo incontro
 
-**Data e Aula:** Ecco il link per fissare il secondo tutorato della prossima settimana: https://www.when2meet.com/?25132064-q7kQR L'altro, al solito, sarà venerdì 14-16.
+**Data e Aula:** I tutorati di questa settimana saranno **giovedì 11-13** e **venerdì 14-16**, entrambi in **Aula O1**. Metterò a breve degli esercizi per giovedì; venerdì faremo una simulazione di esame su anelli e campi. 
 
 ## Esercizi passati
 
