@@ -12,7 +12,7 @@ incontro. In questo modo,
 
 ## Prossimo incontro
 
-**Data e Aula:** I tutorati di questa settimana saranno **giovedì 11-13** e **venerdì 14-16**, entrambi in **Aula O1**. Metterò a breve degli esercizi per giovedì; venerdì faremo una simulazione di esame su anelli e campi. 
+**Data e Aula:** I tutorati di questa settimana saranno **giovedì 11-13** e **venerdì 14-16**, entrambi in **Aula O1**. Venerdì faremo una simulazione di esame su anelli e campi. 
 
 ## Esercizi passati
 
