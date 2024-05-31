@@ -12,7 +12,7 @@ incontro. In questo modo,
 
 ## Prossimo incontro
 
-**Data e Aula:** I tutorati di questa settimana saranno **giovedì 11-13** e **venerdì 14-16**, entrambi in **Aula O1**. Venerdì faremo una simulazione di esame su anelli e campi. 
+**Data e Aula:** Prima del compito di giugno, farei almeno un altro tutorato. Siccome non sono a Pisa venerdì prossimo, ci sarebbe da decidere quando: al solito, compilate questo form https://www.when2meet.com/?25194311-nXhlr
 
 **Simulazione:** [Testo](/Compitino2.pdf)
 
