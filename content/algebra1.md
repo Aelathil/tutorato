@@ -19,9 +19,9 @@ incontro. In questo modo,
 - Sia $k$ un campo, e sia $A=k[t^2,t^3]$, con $t$ un'indeterminata su $k$.
     - Se $\mathfrak{p}\neq (0)$ è un ideale primo di $A$, mostrate che $\mathfrak{p}\cap k[t^2]$ è un ideale primo di $k[t^2]$ diverso da $(0)$.
     - Mostrate che ogni ideale primo di $A$ diverso da $(0)$ è massimale, ma $A$ non è un PID. 
-- Sia $G=\text{Aut}\,(Q_8)$.
+- Sia $G=\text{Aut}(Q_8)$.
     - Provate che l'azione di $G$ sui sottogruppi di indice $2$ di $Q_8$ induce un omomorfismo surgettivo $\varphi: G\to S_3$.
-    - Mostrate che $\text{ker}\,\varphi$ è isomorfo a $V$.
+    - Mostrate che $\text{ker}\varphi$ è isomorfo a $V$.
     - Trovate un sottogruppo di $G$ isomorfo a $S_3$.
     - Dimostrate che $G\simeq S_4$.
 - (Un vecchio esercizio che non ho mai discusso in dettaglio) Sia $G$ un gruppo, e sia $H < G$ un sottogruppo. Consideriamo l'azione di $G$ sui laterali sinistri di $H$. 
