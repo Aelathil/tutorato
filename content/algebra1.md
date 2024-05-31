@@ -15,7 +15,7 @@ incontro. In questo modo,
 **Data e Aula:** I tutorati di questa settimana saranno **giovedì 11-13** e **venerdì 14-16**, entrambi in **Aula O1**. Venerdì faremo una simulazione di esame su anelli e campi. 
 
 **Un po' di esercizi per la prossima settimana:**
-- Siano $A\subset B$ anelli, e sia $\mathfrak{q}$ un ideale primo di $B$. Se $\mathfrak{p}=\mathfrak{q}\cap A$, dimostrate che $\mathfrak{p}$ è un ideale primo di $A$ e che $A/\mathfrak{p}$ si immerge in $B/\mf{q}$.
+- Siano $A\subset B$ anelli, e sia $\mathfrak{q}$ un ideale primo di $B$. Se $\mathfrak{p}=\mathfrak{q}\cap A$, dimostrate che $\mathfrak{p}$ è un ideale primo di $A$ e che $A/\mathfrak{p}$ si immerge in $B/\mathfrak{q}$.
 - Sia $k$ un campo, e sia $A=k[t^2,t^3]$, con $t$ un'indeterminata su $k$.
     - Se $\mathfrak{p}\neq (0)$ è un ideale primo di $A$, mostrate che $\mathfrak{p}\cap k[t^2]$ è un ideale primo di $k[t^2]$ diverso da $(0)$.
     - Mostrate che ogni ideale primo di $A$ diverso da $(0)$ è massimale, ma $A$ non è un PID. 
