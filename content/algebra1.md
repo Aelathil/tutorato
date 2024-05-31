@@ -21,13 +21,13 @@ incontro. In questo modo,
 - Sia $k$ un campo, e sia $A=k[t^2,t^3]$, con $t$ un'indeterminata su $k$.
     - Se $\mathfrak{p}\neq (0)$ è un ideale primo di $A$, mostrate che $\mathfrak{p}\cap k[t^2]$ è un ideale primo di $k[t^2]$ diverso da $(0)$.
     - Mostrate che ogni ideale primo di $A$ diverso da $(0)$ è massimale, ma $A$ non è un PID.
-- (Esercizio importante) Sia $A$ un dominio, e siano $f,g\in A$. Un massimo comun divisore di $f$ e $g$ è un elemento $d\in A$ tale che
+- Sia $A$ un dominio, e siano $f,g\in A$. Un massimo comun divisore di $f$ e $g$ è un elemento $d\in A$ tale che
   1. $d$ divide entrambi $f$ e $g$,
   2. per ogni $h$ che divide entrambi $f,g$ vale $h\mid d$.
     - Mostrate che, se $d_1$ e $d_2$ sono due massimi comuni divisori di $f$ e $g$, allora $d_1$ e $d_2$ sono associati (i.e. differiscono per un invertibile). 
     - Mostrate che se $A$ è un PID, l'ideale $(f,g)$ è generato da un massimo comun divisore di $f$ e $g$.
     - Mostrate che questo è in generale falso se $A$ è un UFD.
-    - Esibite un UFD $A$ e due elementi $f,g\in A$ tali che $\text{gcd}(f,g)=1$ ma $(f,g)\neq (1)$. 
+    - Esibite un UFD $A$ e due elementi $f,g\in A$ tali che $\text{gcd}(f,g)=1$ (cioè $1$ è un massimo comun divisore di $f$ e $g$) ma $(f,g)\neq (1)$. 
 - Sia $G=\text{Aut}(Q_8)$.
     - Provate che l'azione di $G$ sui sottogruppi di indice $2$ di $Q_8$ induce un omomorfismo surgettivo $\varphi: G\to S_3$.
     - Mostrate che $\text{ker}(\varphi)$ è isomorfo a $V$.
