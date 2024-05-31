@@ -20,7 +20,11 @@ incontro. In questo modo,
 - Siano $A\subset B$ anelli, e sia $\mathfrak{q}$ un ideale primo di $B$. Se $\mathfrak{p}=\mathfrak{q}\cap A$, dimostrate che $\mathfrak{p}$ è un ideale primo di $A$ e che $A/\mathfrak{p}$ si immerge in $B/\mathfrak{q}$.
 - Sia $k$ un campo, e sia $A=k[t^2,t^3]$, con $t$ un'indeterminata su $k$.
     - Se $\mathfrak{p}\neq (0)$ è un ideale primo di $A$, mostrate che $\mathfrak{p}\cap k[t^2]$ è un ideale primo di $k[t^2]$ diverso da $(0)$.
-    - Mostrate che ogni ideale primo di $A$ diverso da $(0)$ è massimale, ma $A$ non è un PID. 
+    - Mostrate che ogni ideale primo di $A$ diverso da $(0)$ è massimale, ma $A$ non è un PID.
+- (Esercizio importante) Sia $A$ un dominio, e siano $f,g\in A$.
+    - Mostrate che, se $A$ è un PID, l'ideale $(f,g)$ è generato da un massimo comun divisore $\text{gcd}(f,g)$ di $f$ e $g$.
+    - Mostrate che questo è in generale falso se $A$ è un UFD.
+    - Esibite un UFD $A$ e due elementi $f,g\in A$ tali che $\text{gcd}(f,g)=1$ ma $(f,g)\neq (1)$. 
 - Sia $G=\text{Aut}(Q_8)$.
     - Provate che l'azione di $G$ sui sottogruppi di indice $2$ di $Q_8$ induce un omomorfismo surgettivo $\varphi: G\to S_3$.
     - Mostrate che $\text{ker}(\varphi)$ è isomorfo a $V$.
