@@ -24,7 +24,7 @@ incontro. In questo modo,
     - Mostrate che $\text{ker}\,\phi$ è isomorfo a $V$.
     - Trovate un sottogruppo di $G$ isomorfo a $S_3$.
     - Dimostrate che $G\simeq S_4$.
-- (Un vecchio esercizio che non ho mai discusso in dettaglio) Sia $G$ un gruppo, e sia $H<G$ un sottogruppo. Consideriamo l'azione di $G$ sui laterali sinistri di $H$. 
+- (Un vecchio esercizio che non ho mai discusso in dettaglio) Sia $G$ un gruppo, e sia $H < G$ un sottogruppo. Consideriamo l'azione di $G$ sui laterali sinistri di $H$. 
     - Mostrate che, per ogni $x\in G$, lo stabilizzatore di $xH$ è $xHx^{-1}$.
     - Provate che il nucleo dell'azione di $G$ è il più grande sottogruppo $H_G$ di $H$ normale in $G$.
     - (Una versione infinita del Lemma di Poincaré) Se $G$ è un gruppo infinito, e $H<G$ è un sottogruppo di indice finito, $H$ contiene un sottogruppo normale in       $G$ di indice finito. 
