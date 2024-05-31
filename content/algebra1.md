@@ -24,9 +24,8 @@ incontro. In questo modo,
 - Sia $A$ un dominio, e siano $f,g\in A$. Un massimo comun divisore di $f$ e $g$ è un elemento $d\in A$ tale che
   1. $d$ divide entrambi $f$ e $g$,
   2. per ogni $h$ che divide entrambi $f,g$ vale $h\mid d$.
-    - Mostrate che, se $d_1$ e $d_2$ sono due massimi comuni divisori di $f$ e $g$, allora $d_1$ e $d_2$ sono associati (i.e. differiscono per un invertibile).
+    - Mostrate che, se esiste, un massimo comun divisore è unico a meno di invertibili: più precisamente, se $d_1$ e $d_2$ sono due massimi comuni divisori di $f$ e $g$, allora $d_1$ e $d_2$ sono associati (i.e. differiscono per un invertibile). Scriviamo allora $d=\text{gcd}(f,g)$ se $d$ è un qualsiasi massimo comun divisore di $f$ e $g$.
     - Mostrate che, se $A$ è un UFD, $f$ e $g$ hanno un massimo comun divisore. *Hint: in* $\mathbb{Z}$*, come si trova il massimo comun divisore usando la fattorizzazione?*
-    Scriviamo $d=\text{gcd}(f,g)$ se $d$ è un massimo comun divisore di $f$ e $g$. 
     - Mostrate che se $A$ è un PID, l'ideale $(f,g)$ è generato da un massimo comun divisore di $f$ e $g$.
     - Mostrate che questo è in generale falso se $A$ è un UFD.
     - Esibite un UFD $A$ e due elementi $f,g\in A$ tali che $\text{gcd}(f,g)=1$ ma $(f,g)\neq (1)$. 
