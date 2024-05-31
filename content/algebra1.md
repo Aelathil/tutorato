@@ -14,6 +14,21 @@ incontro. In questo modo,
 
 **Data e Aula:** I tutorati di questa settimana saranno **giovedì 11-13** e **venerdì 14-16**, entrambi in **Aula O1**. Venerdì faremo una simulazione di esame su anelli e campi. 
 
+**Un po' di esercizi per la prossima settimana:**
+- Siano $A\subset B$ anelli, e sia $\mathfrak{q}$ un ideale primo di $B$. Se $\mathfrak{p}=\mathfrak{q}\cap A$, dimostrate che $\mathfrak{p}$ è un ideale primo di $A$ e che $A/\mathfrak{p}$ si immerge in $B/\mf{q}$.
+- Sia $k$ un campo, e sia $A=k[t^2,t^3]$, con $t$ un'indeterminata su $k$.
+    - Se $\mathfrak{p}\neq (0)$ è un ideale primo di $A$, mostrate che $\mathfrak{p}\cap k[t^2]$ è un ideale primo di $k[t^2]$ diverso da $(0)$.
+    - Mostrate che ogni ideale primo di $A$ diverso da $(0)$ è massimale, ma $A$ non è un PID. 
+- Sia $G=\text{Aut}\,(Q_8)$.
+    - Provate che l'azione di $G$ sui sottogruppi di indice $2$ di $Q_8$ induce un omomorfismo surgettivo $\phi: G\to S_3$.
+    - Mostrate che $\text{ker}\,\phi$ è isomorfo a $V$.
+    - Trovate un sottogruppo di $G$ isomorfo a $S_3$.
+    - Dimostrate che $G\simeq S_4$.
+- (Un vecchio esercizio che non ho mai discusso in dettaglio) Sia $G$ un gruppo, e sia $H<G$ un sottogruppo. Consideriamo l'azione di $G$ sui laterali sinistri di $H$. 
+    - Mostrate che, per ogni $x\in G$, lo stabilizzatore di $xH$ è $xHx^{-1}$.
+    - Provate che il nucleo dell'azione di $G$ è il più grande sottogruppo $H_G$ di $H$ normale in $G$.
+    - (Una versione infinita del Lemma di Poincaré) Se $G$ è un gruppo infinito, e $H<G$ è un sottogruppo di indice finito, $H$ contiene un sottogruppo normale in       $G$ di indice finito. 
+
 ## Esercizi passati
 
 **Tutorati 9-10:**
