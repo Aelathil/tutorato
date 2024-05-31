@@ -14,6 +14,8 @@ incontro. In questo modo,
 
 **Data e Aula:** I tutorati di questa settimana saranno **giovedì 11-13** e **venerdì 14-16**, entrambi in **Aula O1**. Venerdì faremo una simulazione di esame su anelli e campi. 
 
+**Simulazione:** [Testo](/Compitino2.pdf)
+
 **Un po' di esercizi per la prossima settimana:**
 - Siano $A\subset B$ anelli, e sia $\mathfrak{q}$ un ideale primo di $B$. Se $\mathfrak{p}=\mathfrak{q}\cap A$, dimostrate che $\mathfrak{p}$ è un ideale primo di $A$ e che $A/\mathfrak{p}$ si immerge in $B/\mathfrak{q}$.
 - Sia $k$ un campo, e sia $A=k[t^2,t^3]$, con $t$ un'indeterminata su $k$.
@@ -28,6 +30,7 @@ incontro. In questo modo,
     - Mostrate che, per ogni $x\in G$, lo stabilizzatore di $xH$ è $xHx^{-1}$.
     - Provate che il nucleo dell'azione di $G$ è il più grande sottogruppo $H_G$ di $H$ normale in $G$.
     - (Una versione infinita del Lemma di Poincaré) Se $G$ è un gruppo infinito, e $H<G$ è un sottogruppo di indice finito, $H$ contiene un sottogruppo normale in       $G$ di indice finito. 
+
 
 ## Esercizi passati
 
