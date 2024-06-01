@@ -14,7 +14,7 @@ incontro. In questo modo,
 
 **Data e Aula:** Prima del compito di giugno, farei almeno un altro tutorato. Siccome non sono a Pisa venerdì prossimo, ci sarebbe da decidere quando: al solito, compilate questo form https://www.when2meet.com/?25194311-nXhlr
 
-**Simulazione:** [Testo](/Compitino2.pdf)
+**Simulazione:** [Testo](/Compitino2.pdf), [Soluzioni](/Compitino2Soluzioni.pdf).
 
 **Un po' di esercizi per la prossima settimana:**
 - Siano $A\subset B$ anelli, e sia $\mathfrak{q}$ un ideale primo di $B$. Se $\mathfrak{p}=\mathfrak{q}\cap A$, dimostrate che $\mathfrak{p}$ è un ideale primo di $A$ e che $A/\mathfrak{p}$ si immerge in $B/\mathfrak{q}$.
