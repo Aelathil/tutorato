@@ -12,7 +12,7 @@ incontro. In questo modo,
 
 ## Prossimo incontro
 
-**Data e Aula:** Prima del compito di giugno, farei almeno un altro tutorato. Siccome non sono a Pisa venerdì prossimo, ci sarebbe da decidere quando: al solito, compilate questo form https://www.when2meet.com/?25194311-nXhlr
+**Data e Aula:** Il prossimo (e ultimo) tutorato sarà **giovedì 6 giugno 14-16** in **Aula P1**.
 
 **Simulazione:** [Testo](/Compitino2.pdf), [Soluzioni](/Compitino2Soluzioni.pdf).
 
