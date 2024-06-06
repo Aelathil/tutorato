@@ -12,7 +12,7 @@ incontro. In questo modo,
 
 ## Prossimo incontro
 
-**Data e Aula:** Il prossimo (e ultimo) tutorato sarà **giovedì 6 giugno 14-16** in **Aula P1**.
+**Data e Aula:** Il prossimo (e ultimo) tutorato sarà **giovedì 6 giugno 14-16** in **Aula E1**.
 
 **Simulazione:** [Testo](/Compitino2.pdf), [Soluzioni](/Compitino2Soluzioni.pdf).
 
