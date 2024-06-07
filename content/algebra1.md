@@ -2,21 +2,12 @@
 
 **Tutor:** Cristofer Villani.
 
-Questo tutorato ha lo scopo principale di aiutarvi a prepararvi con costanza all'esame di Algebra I, in un momento in cui avete altre lezioni e 
-impegni vari. Per il momento, è così strutturato: ogni settimana, metterò *qui* degli esercizi da fare per il prossimo incontro di tutorato.
-Siete fortemente invitati a farne almeno alcuni, e a consegnarmeli (via mail, a *c.villani4*_at_studenti.etc.) entro il giorno prima del successivo
-incontro. In questo modo,
+Il tutorato si è concluso. Sotto trovate gli esercizi assegnati nei vari incontri e due simulazioni d'esame. 
 
-- potrete partecipare attivamente alla correzione;
-- potrò darvi dei feedback sulla *scrittura* delle soluzioni, che è tanto importante quanto le soluzioni stesse.
+## Esercizi assegnati
 
-## Prossimo incontro
+**Tutorato 12:**
 
-**Data e Aula:** Il prossimo (e ultimo) tutorato sarà **giovedì 6 giugno 14-16** in **Aula E1**.
-
-**Simulazione:** [Testo](/Compitino2.pdf), [Soluzioni](/Compitino2Soluzioni.pdf).
-
-**Un po' di esercizi per la prossima settimana:**
 - Siano $A\subset B$ anelli, e sia $\mathfrak{q}$ un ideale primo di $B$. Se $\mathfrak{p}=\mathfrak{q}\cap A$, dimostrate che $\mathfrak{p}$ è un ideale primo di $A$ e che $A/\mathfrak{p}$ si immerge in $B/\mathfrak{q}$.
 - Sia $k$ un campo, e sia $A=k[t^2,t^3]$, con $t$ un'indeterminata su $k$.
     - Se $\mathfrak{p}\neq (0)$ è un ideale primo di $A$, mostrate che $\mathfrak{p}\cap k[t^2]$ è un ideale primo di $k[t^2]$ diverso da $(0)$.
@@ -38,9 +29,6 @@ incontro. In questo modo,
     - Mostrate che, per ogni $x\in G$, lo stabilizzatore di $xH$ è $xHx^{-1}$.
     - Provate che il nucleo dell'azione di $G$ è il più grande sottogruppo $H_G$ di $H$ normale in $G$.
     - (Una versione infinita del Lemma di Poincaré) Se $G$ è un gruppo infinito, e $H<G$ è un sottogruppo di indice finito, $H$ contiene un sottogruppo normale in       $G$ di indice finito. 
-
-
-## Esercizi passati
 
 **Tutorati 9-10:**
 - Dal libro, es. 221, 222, 236, 261.
@@ -139,5 +127,6 @@ incontro. In questo modo,
 
 ## Simulazioni d'Esame
 
-- Simulazione 24 aprile (Gruppi): [Testo](/Compitino1.pdf), [Soluzioni](/CompitinoSoluzioni.pdf).
+- Simulazione 24 aprile (Gruppi): [Testo](/Compitino1.pdf), [Soluzioni](/CompitinoSoluzioni.pdf),
+- Simulazione 31 maggio (Anelli & Campi): [Testo](/Compitino2.pdf), [Soluzioni](/Compitino2Soluzioni.pdf).
 
