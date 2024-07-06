@@ -16,9 +16,9 @@ Venire a tutorato è utilissimo per darvi un'idea più chiara del vostro livello
 |  | Lun | Mar | Mer | Gio | Ven |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |9-11|  |   |   |  |  |
-|11-13|	 |   |   | Algebra I <br> Aula O1 | |
-|14-16|	 | Analisi I<br> Aula P1 | | Fisica 1<br> Aula N1 | Algebra I<br> Aula O1 |
-|16-18|	Geometria I<br> (ogni 2 settimane)  | Alla pari<br> Aula 2 | Alla pari<br> Aula 2  | | Alla pari<br> Aula 2 |
+|11-13|	 |   |   |  | |
+|14-16|	 |  | | |  |
+|16-18|	Alla Pari<br> Aula 2  | | | Alla pari<br> Aula 2 | |
 |18-20|  |   |   |  |  | 
 
 </div>
